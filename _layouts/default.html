@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>About</a>
+        <a href="{{ '/cv/' | relative_url }}" {% if page.url == '/cv/' %}class="active"{% endif %}>CV</a>
+        <a href="{{ '/publications/' | relative_url }}" {% if page.url == '/publications/' %}class="active"{% endif %}>Publications</a>
+        <a href="{{ '/photography/' | relative_url }}" {% if page.url == '/photography/' %}class="active"{% endif %}>Photography</a>
+        <a href="{{ '/timeline/' | relative_url }}" {% if page.url == '/timeline/' %}class="active"{% endif %}>Timeline</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <div class="container">
+      {% if page.title and page.show_title != false %}
+        <h1 class="page-title">{{ page.title }}</h1>
+      {% endif %}
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="contact-links">
+          <a href="mailto:{{ site.author.email }}" title="Email">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+          </a>
+          <a href="https://www.linkedin.com/in/philipfreda" target="_blank" rel="noopener" title="LinkedIn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+          </a>
+          <a href="https://scholar.google.com/citations?user=1NaI6RgAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>
+          </a>
+          <a href="https://www.researchgate.net/profile/Philip-Freda" target="_blank" rel="noopener" title="ResearchGate">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M19.586 0c-2.027 0-3.875.953-5.039 2.438C13.294.953 11.447 0 9.42 0 5.418 0 2.172 3.375 2.172 7.531c0 4.156 3.246 7.531 7.247 7.531.654 0 1.289-.084 1.894-.242v1.336c0 .891-.463 1.703-1.22 2.156-.757.454-1.682.454-2.44 0a2.526 2.526 0 0 1-1.22-2.156v-.445H4.558v.445c0 1.781.927 3.406 2.44 4.313 1.513.906 3.366.906 4.88 0a5.043 5.043 0 0 0 2.439-4.313v-1.336c.606.158 1.24.242 1.895.242 4.001 0 7.247-3.375 7.247-7.531C23.459 3.375 20.213 0 19.586 0z"/></svg>
+          </a>
+          <a href="https://twitter.com/philipfreda" target="_blank" rel="noopener" title="Twitter/X">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"></path></svg>
+          </a>
+        </div>
+        <p class="copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Mobile navigation toggle
+    document.querySelector('.nav-toggle').addEventListener('click', function() {
+      document.querySelector('.site-nav').classList.toggle('active');
+      this.classList.toggle('active');
+    });
+  </script>
+</body>
+</html>

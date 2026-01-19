@@ -1,0 +1,35 @@
+# Site settings
+title: "Philip J. Freda, Jr., Ph.D."
+description: "Personal academic website"
+url: "https://pfreda.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: "Philip J. Freda, Jr., Ph.D."
+  email: "philip.freda@gmail.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
