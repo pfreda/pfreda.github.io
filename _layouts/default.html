@@ -16,8 +16,10 @@
       <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>About</a>
-        <a href="{{ '/cv/' | relative_url }}" {% if page.url == '/cv/' %}class="active"{% endif %}>CV</a>
+        <a href="{{ '/research/' | relative_url }}" {% if page.url == '/research/' %}class="active"{% endif %}>Research</a>
         <a href="{{ '/publications/' | relative_url }}" {% if page.url == '/publications/' %}class="active"{% endif %}>Publications</a>
+        <a href="{{ '/teaching/' | relative_url }}" {% if page.url == '/teaching/' %}class="active"{% endif %}>Teaching</a>
+        <a href="{{ '/cv/' | relative_url }}" {% if page.url == '/cv/' %}class="active"{% endif %}>CV</a>
         <a href="{{ '/photography/' | relative_url }}" {% if page.url == '/photography/' %}class="active"{% endif %}>Photography</a>
         <a href="{{ '/timeline/' | relative_url }}" {% if page.url == '/timeline/' %}class="active"{% endif %}>Timeline</a>
       </nav>
