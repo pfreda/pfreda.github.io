@@ -1,12 +1,12 @@
 # Site settings
-title: "Philip J. Freda, Jr., Ph.D."
+title: "Philip J. Freda, Jr., Ph.D., M.S."
 description: "Personal academic website"
 url: "https://pfreda.github.io"
 baseurl: ""
 
 # Author
 author:
-  name: "Philip J. Freda, Jr., Ph.D."
+  name: "Philip J. Freda, Jr., Ph.D., M.S."
   email: "philip.freda@gmail.com"
 
 # Build settings

@@ -7,7 +7,7 @@ show_title: false
 <div class="hero-section">
   <img src="/assets/images/2023/02/headshot3.jpg" alt="Philip J. Freda, Jr., Ph.D., M.S." class="hero-photo">
   <div class="hero-content">
-    <h1>Philip J. Freda, Jr., Ph.D.</h1>
+    <h1>Philip J. Freda, Jr., Ph.D., M.S.</h1>
     <p class="hero-subtitle">AI for Clinical Prediction and Informatics @ Cedars-Sinai, LA</p>
   </div>
 </div>
