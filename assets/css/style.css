@@ -235,6 +235,19 @@ blockquote {
   font-style: italic;
 }
 
+/* Hero Quote */
+.hero-quote {
+  text-align: center;
+  font-size: 1.15rem;
+  color: var(--color-text-secondary);
+  margin: 0 0 2.5rem 0;
+  padding: 1.5rem 2rem;
+  background: var(--color-bg-secondary);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-accent);
+  border-radius: var(--radius-md);
+}
+
 /* ============================================
    Hero Section - Landing Page
    ============================================ */
@@ -332,26 +345,39 @@ blockquote {
   text-align: center;
 }
 
+/* Visit Section */
+.visit-section {
+  margin-top: 2.5rem;
+}
+
+.visit-section h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
 /* Location Cards */
 .location-cards {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.5rem;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
   margin-top: 1rem;
 }
 
 .location-card {
+  display: block;
   border-radius: var(--radius-md);
   overflow: hidden;
   background: var(--color-bg-secondary);
   border: 1px solid var(--color-border);
   transition: all var(--transition);
+  text-decoration: none;
 }
 
 .location-card:hover {
   border-color: var(--color-primary);
   transform: translateY(-2px);
   box-shadow: var(--shadow-md);
+  text-decoration: none;
 }
 
 .location-card img {
@@ -367,6 +393,53 @@ blockquote {
   font-size: 0.875rem;
   font-weight: 500;
   color: var(--color-text);
+  text-align: center;
+}
+
+/* Research Highlights */
+.research-highlights {
+  margin-bottom: 2rem;
+  padding: 2rem;
+  background: var(--color-bg-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+}
+
+.research-highlights h2 {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.research-highlights ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.research-highlights li {
+  padding: 0.875rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+  border-bottom: 1px solid var(--color-border-light);
+  color: var(--color-text-secondary);
+}
+
+.research-highlights li:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.research-highlights li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 1.15rem;
+  width: 6px;
+  height: 6px;
+  background: var(--color-primary);
+  border-radius: 50%;
 }
 
 /* ============================================
@@ -470,6 +543,8 @@ blockquote {
    Education
    ============================================ */
 .education-card {
+  display: flex;
+  gap: 2rem;
   padding: 2rem;
   background: var(--color-bg-secondary);
   border: 1px solid var(--color-border);
@@ -482,9 +557,27 @@ blockquote {
   border-color: var(--color-primary);
 }
 
+.education-image {
+  flex-shrink: 0;
+  width: 200px;
+}
+
+.education-image img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+}
+
+.education-content {
+  flex: 1;
+}
+
 .education-card h3 {
   margin: 0 0 0.25rem 0;
   color: var(--color-text);
+  font-size: 1.1rem;
 }
 
 .education-institution {
@@ -499,7 +592,7 @@ blockquote {
   margin-bottom: 1rem;
 }
 
-.education-card p:last-child {
+.education-content p:last-child {
   margin-bottom: 0;
 }
 
@@ -722,6 +815,18 @@ blockquote {
 
   .location-cards {
     grid-template-columns: 1fr;
+  }
+
+  .education-card {
+    flex-direction: column;
+  }
+
+  .education-image {
+    width: 100%;
+  }
+
+  .education-image img {
+    height: 180px;
   }
 
   .research-flex,
