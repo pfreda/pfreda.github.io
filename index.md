@@ -17,17 +17,55 @@ show_title: false
 </blockquote>
 
 <div class="intro-text">
-  <p>I am a Research Scientist I and clinical informatician at <a href="https://www.cedars-sinai.org/">Cedars-Sinai Medical Center's</a> <a href="https://www.cedars-sinai.edu/research/departments-institutes/computational-biomedicine.html">Department of Computational Biomedicine</a> in Los Angeles. I develop artificial intelligence methods that transform clinical data into usable formats for prediction, discovery, and decision support by combining clinical informatics, machine learning, and translational research.</p>
+  <p>I am a Research Scientist I and clinical informatician in the <a href="https://www.cedars-sinai.edu/research/departments-institutes/computational-biomedicine.html">Department of Computational Biomedicine</a> at <a href="https://www.cedars-sinai.org/">Cedars-Sinai Medical Center</a> in Los Angeles, CA.</p>
+
+  <p>I develop AI-driven methods that make clinical data more usable for prediction, discovery, and decision support. My work sits at the intersection of clinical informatics, machine learning, and translational research, with a focus on building automated (and increasingly agentic) pipelines that transform noisy EHR data into clinically actionable representations. A major theme of my research is improving risk identification for adverse spine surgery outcomes and for problematic opioid use/opioid use disorder, leveraging structured EHR elements, clinical narratives, imaging, and social determinants of health to model patient risk and heterogeneity.</p>
+
+  <p>I also design knowledge-graph–based frameworks that capture relationships among clinical concepts, data quality operations, and model behavior to support transparent, auditable AI workflows and human–AI collaboration. My earlier training in computational genetics and complex trait analysis informs how I think about high-dimensional interactions, robustness, and generalization, but my current emphasis is on clinically grounded, scalable AI systems for real-world healthcare data.</p>
 </div>
 
 <div class="research-highlights">
-  <h2>Research Focus</h2>
-  <ul>
-    <li><strong>Clinical Informatics & AI:</strong> Agentic systems and automation for electronic health record data processing; phenotyping and risk modeling from structured and unstructured EHR data; clinical prediction for perioperative risk in elective spine surgery</li>
-    <li><strong>Substance Use Disorders:</strong> Computational analysis of problematic opioid use from clinical notes; severity characterization using natural language processing</li>
-    <li><strong>Knowledge Graphs & Collaboration:</strong> Knowledge graph development for clinical concepts and data transformations; graph-informed interfaces for interpretability and actionability</li>
-    <li><strong>Additional Research:</strong> Patient heterogeneity quantification in surgical populations; social determinants integration in EHR systems; complex trait modeling and interaction-focused computational genetics methods</li>
-  </ul>
+  <h2>My main research focuses are:</h2>
+
+  <div class="research-focus-item">
+    <h3>Clinical informatics & AI for real-world data</h3>
+    <ul>
+      <li>Agentic AI and automation for EHR data processing (data cleaning, feature engineering, reproducible pipelines)</li>
+      <li>Phenotyping and risk modeling from structured + unstructured EHR data (including NLP)</li>
+      <li>Clinical prediction for perioperative risk and outcomes in elective spine surgery</li>
+    </ul>
+  </div>
+
+  <div class="research-focus-item">
+    <h3>Substance use disorders & clinical NLP</h3>
+    <ul>
+      <li>Computational phenotyping of problematic opioid use / OUD from clinical notes and discharge summaries</li>
+      <li>Severity characterization and context-aware NLP/annotation frameworks to support downstream modeling</li>
+    </ul>
+  </div>
+
+  <div class="research-focus-item">
+    <h3>Knowledge graphs & AI-human collaboration</h3>
+    <ul>
+      <li>Knowledge graph development to represent clinical concepts, data transformations, and model evidence</li>
+      <li>Retrieval-augmented and graph-informed interfaces to improve interpretability, traceability, and actionability</li>
+    </ul>
+  </div>
+
+  <div class="research-focus-item">
+    <h3>Patient heterogeneity</h3>
+    <ul>
+      <li>Quantifying patient subgroup structure and outcome heterogeneity (e.g., clustering approaches) in surgical populations</li>
+      <li>Integrating and operationalizing social determinants data in EHR systems</li>
+    </ul>
+  </div>
+
+  <div class="research-focus-item">
+    <h3>Computational genetics</h3>
+    <ul>
+      <li>Complex trait modeling and interaction-focused methods (epistasis, non-additivity, AutoML for trait discovery)</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cta-section">
