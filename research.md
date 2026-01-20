@@ -22,7 +22,7 @@ title: Research
 <div class="research-section">
 <h2>Knowledge Graphs & Human-AI Collaboration</h2>
 <div class="research-flex">
-  <img src="/assets/images/2024/02/dallc2b7e-2024-02-02-09.19.02-imagine-an-artistic-abstract-representation-capturing-the-concept-of-using-machine-learning-to-understand-the-association-between-genotypes-and-phenot.webp" alt="Knowledge Graphs">
+  <img src="/assets/images/2026/01/3.jpg" alt="Knowledge Graphs">
   <p>I build <strong>structured frameworks</strong> that encode relationships among clinical concepts, data operations, and validation evidence. These knowledge graphs support transparent iteration and discovery of insights, enabling clinicians and data scientists to compare pipeline choices and improve model interpretability through <strong>graph-informed, retrieval-augmented interfaces</strong>. This work aims to make the AI decision-making process more accessible and auditable for clinical stakeholders.</p>
 </div>
 </div>
@@ -30,7 +30,7 @@ title: Research
 <div class="research-section">
 <h2>Modeling Clinical Heterogeneity</h2>
 <div class="research-flex research-flex-reverse">
-  <img src="/assets/images/2024/02/dallc2b7e-2024-02-02-09.25.33-visualize-an-abstract-representation-of-the-prediction-of-clinical-outcomes-pain-and-addiction-in-a-thought-provoking-and-artistic-manner.-picture-a.webp" alt="Clinical Heterogeneity">
+  <img src="/assets/images/2026/01/4.jpg" alt="Clinical Heterogeneity">
   <p>Clinical outcomes vary substantially across patient subgroups, yet most models assume homogeneous populations. My research addresses this by <strong>identifying clinically meaningful risk phenotypes</strong>, quantifying performance stability across strata, and generating calibrated risk estimates for reliable stratification. This work is particularly relevant for surgical outcomes and substance use disorders, where patient heterogeneity can dramatically affect treatment decisions and risk assessment.</p>
 </div>
 </div>
@@ -38,7 +38,7 @@ title: Research
 <div class="research-section">
 <h2>AutoML for Genotype–Phenotype Association Analysis</h2>
 <div class="research-flex">
-  <img src="/assets/images/2024/02/dallc2b7e-2024-02-02-09.17.14-illustrate-the-concept-of-epistasis-in-genetics-through-an-abstract-visualization.-imagine-two-sets-of-gears-each-representing-a-different-gene.-the-.webp" alt="Epistasis">
+  <img src="/assets/images/2026/01/starbase-gp-logo.png" alt="StarBASE-GP">
   <p>Complex traits often depend on <strong>epistatic (gene-gene) interactions</strong> and non-additive genetic effects that standard GWAS approaches miss. The <strong>StarBASE-GP</strong> tool I've developed evaluates multiple inheritance models and detects epistatic interactions, moving beyond additive-only assumptions to improve detection of complex genetic architectures. This work spans addiction genetics, metabolic traits, and model organism studies, with a focus on making interaction findings biologically interpretable and clinically actionable.</p>
 </div>
 </div>

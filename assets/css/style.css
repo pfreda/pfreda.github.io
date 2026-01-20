@@ -410,11 +410,6 @@ blockquote {
 .intro-text p {
   font-size: 1.05rem;
   line-height: 1.85;
-  color: var(--color-text-secondary);
-}
-
-.intro-text p:first-child {
-  font-size: 1.1rem;
   color: var(--color-text);
 }
 
