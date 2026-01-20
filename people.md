@@ -19,7 +19,7 @@ title: People
 
       <p>Before diving into clinical AI, Phil spent years studying thermal biology and evolutionary genetics in fruit flies, earning his Ph.D. from Kansas State University. That training in dealing with noisy biological data, complex interactions, and the importance of rigorous methodology followed him into the clinical domain, where he now applies similar thinking to human health challenges.</p>
 
-      <p>When not wrestling with data pipelines or annotation frameworks, Phil can be found exploring Los Angeles with his camera, contemplating the mysteries of insect physiology, or searching for the perfect cup of coffee. He's a firm believer that the best science happens at the intersection of curiosity and persistence.</p>
+      <p>When not wrestling with data pipelines or agentic frameworks, Phil can be found exploring Los Angeles with his wife, contemplating the mysteries of evolutionary theory, gaming, watching the Eagles, or searching for the perfect piece of sushi. He's a firm believer that the best science happens at the intersection of curiosity and persistence.</p>
     </div>
 
     <div class="person-interests">
