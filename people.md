@@ -34,7 +34,7 @@ title: People
     </div>
 
     <div class="person-links">
-      <a href="mailto:philip.freda@gmail.com" class="btn">Email</a>
+      <a href="mailto:philip.freda@cshs.org" class="btn">Email</a>
       <a href="https://scholar.google.com/citations?user=1NaI6RgAAAAJ&hl=en" class="btn" target="_blank" rel="noopener">Google Scholar</a>
       <a href="https://www.linkedin.com/in/philipfreda" class="btn" target="_blank" rel="noopener">LinkedIn</a>
     </div>
@@ -76,5 +76,5 @@ title: People
 
 <div class="join-section">
   <h2>Collaborate With Us</h2>
-  <p>We're always open to collaborations with researchers, clinicians, and industry partners who share our passion for clinical AI, NLP, and improving healthcare through data-driven insights. If you have an interesting problem or dataset and think there might be synergy with our work, <a href="mailto:philip.freda@gmail.com">let's talk</a>.</p>
+  <p>We're always open to collaborations with researchers, clinicians, and industry partners who share our passion for clinical AI, NLP, and improving healthcare through data-driven insights. If you have an interesting problem or dataset and think there might be synergy with our work, <a href="mailto:philip.freda@cshs.org">let's talk</a>.</p>
 </div>

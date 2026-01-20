@@ -69,7 +69,7 @@ show_title: false
 </div>
 
 <div class="cta-section">
-  <p>Interested in our research or collaboration? Explore our <a href="/research/">research areas</a>, <a href="/publications/">recent publications</a>, or <a href="/people/">meet the team</a>. Feel free to <a href="mailto:philip.freda@gmail.com">reach out</a>!</p>
+  <p>Interested in our research or collaboration? Explore our <a href="/research/">research areas</a>, <a href="/publications/">recent publications</a>, or <a href="/people/">meet the team</a>. Feel free to <a href="mailto:philip.freda@cshs.org">reach out</a>!</p>
 </div>
 
 <div class="visit-section">
