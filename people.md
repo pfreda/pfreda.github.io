@@ -35,9 +35,34 @@ title: People
 
     <div class="person-links">
       <a href="mailto:philip.freda@gmail.com" class="btn">Email</a>
-      <a href="/cv/" class="btn">CV</a>
       <a href="https://scholar.google.com/citations?user=1NaI6RgAAAAJ&hl=en" class="btn" target="_blank" rel="noopener">Google Scholar</a>
       <a href="https://www.linkedin.com/in/philipfreda" class="btn" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+
+    <div class="person-pages">
+      <h3>More About Phil</h3>
+      <div class="person-page-links">
+        <a href="/cv/" class="page-link-card">
+          <span class="page-link-icon">📄</span>
+          <span class="page-link-title">CV</span>
+          <span class="page-link-desc">Academic curriculum vitae</span>
+        </a>
+        <a href="/education/" class="page-link-card">
+          <span class="page-link-icon">🎓</span>
+          <span class="page-link-title">Education</span>
+          <span class="page-link-desc">Academic background & training</span>
+        </a>
+        <a href="/teaching/" class="page-link-card">
+          <span class="page-link-icon">👨‍🏫</span>
+          <span class="page-link-title">Teaching</span>
+          <span class="page-link-desc">Courses & science outreach</span>
+        </a>
+        <a href="/photography/" class="page-link-card">
+          <span class="page-link-icon">📷</span>
+          <span class="page-link-title">Photography</span>
+          <span class="page-link-desc">Nature & wildlife photography</span>
+        </a>
+      </div>
     </div>
   </div>
 </div>
