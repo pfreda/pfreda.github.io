@@ -381,7 +381,7 @@ blockquote {
 
 /* Hero Logo - rectangular display */
 .hero-logo {
-  width: 280px;
+  width: 380px;
   height: auto;
   border-radius: var(--radius-lg);
   object-fit: contain;
@@ -393,7 +393,7 @@ blockquote {
 }
 
 .hero-logo:hover {
-  transform: scale(1.03);
+  transform: scale(1.02);
   filter: drop-shadow(0 0 40px rgba(88, 166, 255, 0.45));
 }
 
@@ -418,6 +418,8 @@ blockquote {
   background-clip: text;
   font-weight: 600;
   margin: 0;
+  max-width: 280px;
+  line-height: 1.5;
 }
 
 /* Intro Text */
