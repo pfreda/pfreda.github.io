@@ -1,13 +1,19 @@
 # Site settings
-title: "Philip J. Freda, Jr., Ph.D., M.S."
-description: "Personal academic website"
-url: "https://pfreda.github.io"
+title: "Freda Lab"
+description: "AI-driven clinical informatics and prediction research"
+url: "https://philipfreda.com"
 baseurl: ""
 
-# Author
+# Author / Lab PI
 author:
   name: "Philip J. Freda, Jr., Ph.D., M.S."
   email: "philip.freda@gmail.com"
+
+# Lab info
+lab:
+  name: "Freda Lab"
+  institution: "Cedars-Sinai Medical Center"
+  department: "Department of Computational Biomedicine"
 
 # Build settings
 markdown: kramdown
