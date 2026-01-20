@@ -379,24 +379,22 @@ blockquote {
   transform: scale(1.05);
 }
 
-/* Hero Logo - for lab logo in circular container */
+/* Hero Logo - rectangular display */
 .hero-logo {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 4px solid transparent;
-  background: linear-gradient(#2a2d32, #2a2d32) padding-box,
-              var(--gradient-primary) border-box;
-  box-shadow: var(--shadow-lg), 0 0 40px rgba(88, 166, 255, 0.2);
+  width: 280px;
+  height: auto;
+  border-radius: var(--radius-lg);
+  object-fit: contain;
   flex-shrink: 0;
   position: relative;
   z-index: 1;
-  transition: transform var(--transition-slow);
+  transition: all var(--transition-slow);
+  filter: drop-shadow(0 0 30px rgba(88, 166, 255, 0.3));
 }
 
 .hero-logo:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
+  filter: drop-shadow(0 0 40px rgba(88, 166, 255, 0.45));
 }
 
 .hero-content {
@@ -1165,8 +1163,8 @@ blockquote {
   }
 
   .hero-logo {
-    width: 150px;
-    height: 150px;
+    width: 220px;
+    height: auto;
   }
 
   .hero-content h1 {
