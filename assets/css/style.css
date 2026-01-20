@@ -384,7 +384,7 @@ blockquote {
   width: 180px;
   height: 180px;
   border-radius: 50%;
-  object-fit: contain;
+  object-fit: cover;
   border: 4px solid transparent;
   background: linear-gradient(#2a2d32, #2a2d32) padding-box,
               var(--gradient-primary) border-box;
@@ -393,7 +393,6 @@ blockquote {
   position: relative;
   z-index: 1;
   transition: transform var(--transition-slow);
-  padding: 25px;
 }
 
 .hero-logo:hover {
@@ -1168,7 +1167,6 @@ blockquote {
   .hero-logo {
     width: 150px;
     height: 150px;
-    padding: 20px;
   }
 
   .hero-content h1 {
