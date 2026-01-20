@@ -5,7 +5,7 @@ show_title: false
 ---
 
 <div class="hero-section">
-  <img src="/assets/images/2023/02/headshot3.jpg" alt="Freda Lab" class="hero-photo">
+  <img src="/assets/images/FredaLabLogo.png" alt="Freda Lab Logo" class="hero-logo">
   <div class="hero-content">
     <h1>Freda Lab</h1>
     <p class="hero-subtitle">AI for Clinical Prediction & Informatics @ Cedars-Sinai</p>
