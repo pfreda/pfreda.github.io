@@ -75,6 +75,6 @@ title: People
 </div>
 
 <div class="join-section">
-  <h2>Join the Lab</h2>
-  <p>We are always interested in hearing from motivated researchers at all levels—graduate students, postdocs, and collaborators—who are excited about clinical AI, NLP, and making a real impact on healthcare. If you're passionate about turning complex clinical data into meaningful insights, <a href="mailto:philip.freda@gmail.com">get in touch</a>.</p>
+  <h2>Collaborate With Us</h2>
+  <p>We're always open to collaborations with researchers, clinicians, and industry partners who share our passion for clinical AI, NLP, and improving healthcare through data-driven insights. If you have an interesting problem or dataset and think there might be synergy with our work, <a href="mailto:philip.freda@gmail.com">let's talk</a>.</p>
 </div>
