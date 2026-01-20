@@ -73,7 +73,7 @@ show_title: false
 </div>
 
 <div class="visit-section">
-  <h2>Visit Us</h2>
+  <h2>Visit Us Virtually</h2>
   <div class="location-cards">
     <a href="https://www.cedars-sinai.org/" class="location-card" target="_blank" rel="noopener">
       <img src="/assets/images/2023/02/about-hero1-v2.jpg" alt="Cedars-Sinai Medical Center">
