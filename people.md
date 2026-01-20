@@ -62,6 +62,11 @@ title: People
           <span class="page-link-title">Photography</span>
           <span class="page-link-desc">Nature & wildlife photography</span>
         </a>
+        <a href="/timeline/" class="page-link-card">
+          <span class="page-link-icon">🛤️</span>
+          <span class="page-link-title">The Road So Far</span>
+          <span class="page-link-desc">Career timeline & milestones</span>
+        </a>
       </div>
     </div>
   </div>

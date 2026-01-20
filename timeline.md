@@ -1,6 +1,6 @@
 ---
 layout: default
-title: News & Timeline
+title: The Road So Far
 ---
 
 <div class="timeline">
