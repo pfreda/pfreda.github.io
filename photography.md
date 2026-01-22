@@ -3,6 +3,8 @@ layout: default
 title: Photography
 ---
 
+{% include subpage-nav.html %}
+
 <div class="photo-gallery">
 
 <div class="photo-item">

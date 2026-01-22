@@ -3,6 +3,8 @@ layout: default
 title: Teaching & Science Outreach
 ---
 
+{% include subpage-nav.html %}
+
 <div class="intro-text">
   <p>Scientists broaden our understanding of the natural world everyday. However, another role of scientists that is too often forgotten or overlooked, is to educate others. Below are some of the programs and activities I have been involved in to fulfill that role.</p>
 </div>

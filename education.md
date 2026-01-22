@@ -3,6 +3,8 @@ layout: default
 title: Education
 ---
 
+{% include subpage-nav.html %}
+
 <div class="education-card">
   <div class="education-image">
     <img src="/assets/images/2024/03/university-pennsylvania_193.jpg" alt="University of Pennsylvania">

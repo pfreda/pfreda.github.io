@@ -16,3 +16,6 @@ vendor/
 .idea/
 .vscode/
 *.sublime-*
+
+# Claude Code
+CLAUDE.md
