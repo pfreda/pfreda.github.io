@@ -12,6 +12,11 @@ title: The Road So Far
 <p>Co-developed and began co-teaching "Artificial Intelligence" (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html">Health Artificial Intelligence</a>.</p>
 </div>
 
+<div class="timeline-item">
+<div class="timeline-date">January 2026</div>
+<p>Published "<a href="https://www.nature.com/articles/s41598-025-31453-9">Leveraging automated machine learning to benchmark, deconstruct, and compare frailty indices for predicting adverse spinal surgery outcomes</a>" in <em>Scientific Reports</em>.</p>
+</div>
+
 <div class="timeline-item has-image">
 <div class="timeline-date">December 2025</div>
 <div class="timeline-content-wrapper">
