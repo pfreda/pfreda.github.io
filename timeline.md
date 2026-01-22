@@ -9,12 +9,12 @@ title: The Road So Far
 
 <div class="timeline-item">
 <div class="timeline-date">January 2026</div>
-<p>Co-developed and began co-teaching "Artificial Intelligence" (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html">Health Artificial Intelligence</a>.</p>
+<p>Co-developed and began co-teaching "Artificial Intelligence" (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank" rel="noopener">Health Artificial Intelligence</a>.</p>
 </div>
 
 <div class="timeline-item">
 <div class="timeline-date">January 2026</div>
-<p>Published "<a href="https://www.nature.com/articles/s41598-025-31453-9">Leveraging automated machine learning to benchmark, deconstruct, and compare frailty indices for predicting adverse spinal surgery outcomes</a>" in <em>Scientific Reports</em>.</p>
+<p>Published "<a href="https://www.nature.com/articles/s41598-025-31453-9" target="_blank" rel="noopener">Leveraging automated machine learning to benchmark, deconstruct, and compare frailty indices for predicting adverse spinal surgery outcomes</a>" in <em>Scientific Reports</em>.</p>
 </div>
 
 <div class="timeline-item has-image">
@@ -271,8 +271,8 @@ title: The Road So Far
 <div class="timeline-date">Fall 2014</div>
 <div class="timeline-content-wrapper">
 <div>
-<p>Presented a poster entitled "Temporal Variation at Microsatellite Loci in Wild-Caught <em>Drosophila simulans</em>" at the 12th Annual <a href="https://ecogen.k-state.edu/programs/">Ecological Genomics Summer Research Forum</a>.</p>
-<p>Accepted a GRA position at <strong>Kansas State University</strong>, <a href="https://entomology.k-state.edu/">Department of Entomology</a> to pursue PhD in entomology.</p>
+<p>Presented a poster entitled "Temporal Variation at Microsatellite Loci in Wild-Caught <em>Drosophila simulans</em>" at the 12th Annual <a href="https://ecogen.k-state.edu/programs/" target="_blank" rel="noopener">Ecological Genomics Summer Research Forum</a>.</p>
+<p>Accepted a GRA position at <strong>Kansas State University</strong>, <a href="https://entomology.k-state.edu/" target="_blank" rel="noopener">Department of Entomology</a> to pursue PhD in entomology.</p>
 <p>Recipient of the <strong>Timothy R. Donoghue Graduate Scholarship</strong>.</p>
 </div>
 <img src="/assets/images/2018/02/20150905_200122.jpg" alt="Kansas State University" class="timeline-image">
@@ -294,11 +294,11 @@ title: The Road So Far
 <p><strong>Commencement</strong>: Received M.S. in Biology from Saint Joseph's University.</p>
 <ul>
 <li>Recipient of the <strong>Biology Graduate Student Award</strong></li>
-<li>Inducted into <a href="http://www.ael.gradschools.org/">Alpha Epsilon Lambda</a> - The Graduate Students Honor Society</li>
+<li>Inducted into <a href="http://www.ael.gradschools.org/" target="_blank" rel="noopener">Alpha Epsilon Lambda</a> - The Graduate Students Honor Society</li>
 </ul>
 <p>Appeared in <a href="/assets/files/intellect2014_fly_v6.pdf">SJU Intellect Magazine, Spring 2014: Dangerous Invaders: Researchers Embark on Study of Asian Fruit Fly</a>.</p>
 <p>Appeared in <a href="/assets/files/majr-spring-2014.pdf">MAJR Magazine: How My Major is Making a Difference</a> - an article concerning community outreach and the GeoKids LINKS program.</p>
-<p>Presented a poster entitled "Temporal Variation at Microsatellite Loci in Wild-Caught <em>Drosophila simulans</em>" at the <a href="https://sites.sju.edu/casresources/sigma-xi-research-symposium/">Sigma Xi Research Symposium</a> at Saint Joseph's University.</p>
+<p>Presented a poster entitled "Temporal Variation at Microsatellite Loci in Wild-Caught <em>Drosophila simulans</em>" at the <a href="https://sites.sju.edu/casresources/sigma-xi-research-symposium/" target="_blank" rel="noopener">Sigma Xi Research Symposium</a> at Saint Joseph's University.</p>
 </div>
 <img src="/assets/images/2018/02/photo.jpg" alt="MS Commencement" class="timeline-image">
 </div>
@@ -307,12 +307,12 @@ title: The Road So Far
 <div class="timeline-item">
 <div class="timeline-date">Fall 2013</div>
 <p>Appeared in "Glow Better: Students and Faculty Collaborate to Study Fruit Pest" - an article concerning a collaborative, multi-faceted research effort at Saint Joseph's University to study <em>Drosophila suzukii</em>, a new invasive fruit fly pest in Pennsylvania.</p>
-<p>Published <a href="https://www.researchgate.net/publication/260417270_Freda_PJ_and_JM_Braverman_2013_An_Efficient_Practical_and_Reliable_Drosophila_Trap_Drosophila_Information_Service_96_199-201">"An Efficient, Practical, and Reliable Drosophila Trap"</a> in <em><a href="http://www.ou.edu/journals/dis/byissue.html">Drosophila Information Service</a></em>.</p>
+<p>Published <a href="https://www.researchgate.net/publication/260417270_Freda_PJ_and_JM_Braverman_2013_An_Efficient_Practical_and_Reliable_Drosophila_Trap_Drosophila_Information_Service_96_199-201" target="_blank" rel="noopener">"An Efficient, Practical, and Reliable Drosophila Trap"</a> in <em><a href="http://www.ou.edu/journals/dis/byissue.html" target="_blank" rel="noopener">Drosophila Information Service</a></em>.</p>
 </div>
 
 <div class="timeline-item">
 <div class="timeline-date">Spring 2013</div>
-<p>Published my <a href="https://www.researchgate.net/publication/257959274_Drosophila_suzukii_or_Spotted_Wing_Drosophila_Recorded_in_Southeastern_Pennsylvania_USA">first scientific paper</a>: "<em>Drosophila suzukii</em>, or Spotted Wing Drosophila, Recorded in Southeastern Pennsylvania, U.S.A." in <em><a href="http://www.bioone.org/loi/entn">Entomological News</a></em>.</p>
+<p>Published my <a href="https://www.researchgate.net/publication/257959274_Drosophila_suzukii_or_Spotted_Wing_Drosophila_Recorded_in_Southeastern_Pennsylvania_USA" target="_blank" rel="noopener">first scientific paper</a>: "<em>Drosophila suzukii</em>, or Spotted Wing Drosophila, Recorded in Southeastern Pennsylvania, U.S.A." in <em><a href="http://www.bioone.org/loi/entn" target="_blank" rel="noopener">Entomological News</a></em>.</p>
 </div>
 
 <div class="timeline-item has-image">
@@ -337,7 +337,7 @@ title: The Road So Far
 <div class="timeline-item has-image">
 <div class="timeline-date">Spring 2012</div>
 <div class="timeline-content-wrapper">
-<p>Presented a poster entitled "Drosophila Biodiversity on the Campus of Saint Joseph's University" at the <a href="https://sites.sju.edu/casresources/sigma-xi-research-symposium/">Sigma Xi Research Symposium</a> at Saint Joseph's University, Philadelphia.</p>
+<p>Presented a poster entitled "Drosophila Biodiversity on the Campus of Saint Joseph's University" at the <a href="https://sites.sju.edu/casresources/sigma-xi-research-symposium/" target="_blank" rel="noopener">Sigma Xi Research Symposium</a> at Saint Joseph's University, Philadelphia.</p>
 <img src="/assets/images/2018/02/photo1.jpg" alt="Sigma Xi Poster 2012" class="timeline-image">
 </div>
 </div>
@@ -345,7 +345,7 @@ title: The Road So Far
 <div class="timeline-item has-image">
 <div class="timeline-date">Spring 2011</div>
 <div class="timeline-content-wrapper">
-<p>Presented a poster entitled "Computational Study of Flowering Time Genetics with QTL Cartographer" at the <a href="https://sites.sju.edu/casresources/sigma-xi-research-symposium/">Sigma Xi Research Symposium</a> at Saint Joseph's University, Philadelphia.</p>
+<p>Presented a poster entitled "Computational Study of Flowering Time Genetics with QTL Cartographer" at the <a href="https://sites.sju.edu/casresources/sigma-xi-research-symposium/" target="_blank" rel="noopener">Sigma Xi Research Symposium</a> at Saint Joseph's University, Philadelphia.</p>
 <img src="/assets/images/2018/02/sigma-xi.jpg" alt="Sigma Xi Poster 2011" class="timeline-image">
 </div>
 </div>

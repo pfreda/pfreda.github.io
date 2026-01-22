@@ -18,7 +18,7 @@ title: Teaching & Science Outreach
 
   <div class="research-focus-item">
     <h3>Classroom Instruction</h3>
-    <p>I have co-developed and co-teach a graduate level course in Artificial Intelligence (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html">Health Artificial Intelligence</a>. The course covers topics including:</p>
+    <p>I have co-developed and co-teach a graduate level course in Artificial Intelligence (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank" rel="noopener">Health Artificial Intelligence</a>. The course covers topics including:</p>
     <ul>
       <li>Expert Systems</li>
       <li>Probability & Uncertainty</li>
@@ -36,8 +36,8 @@ title: Teaching & Science Outreach
     <h3>Invited Lectures & Seminars</h3>
     <p>I have given the following invited classroom lectures:</p>
     <ul>
-      <li>"Inferring opioid use disorder severity from clinical notes: an annotation study" in Dr. Danielle Mowery's graduate Informatics class at the <a href="https://dbei.med.upenn.edu/">University of Pennsylvania's Department of Biostatistics, Epidemiology, and Informatics</a>.</li>
-      <li>"Using R in your Research" in Dr. Edwin Li's graduate Research Techniques class at <a href="https://www.sju.edu/departments/biology">Saint Joseph's University Department of Biology</a>.</li>
+      <li>"Inferring opioid use disorder severity from clinical notes: an annotation study" in Dr. Danielle Mowery's graduate Informatics class at the <a href="https://dbei.med.upenn.edu/" target="_blank" rel="noopener">University of Pennsylvania's Department of Biostatistics, Epidemiology, and Informatics</a>.</li>
+      <li>"Using R in your Research" in Dr. Edwin Li's graduate Research Techniques class at <a href="https://www.sju.edu/departments/biology" target="_blank" rel="noopener">Saint Joseph's University Department of Biology</a>.</li>
     </ul>
   </div>
 
@@ -48,22 +48,22 @@ title: Teaching & Science Outreach
 
   <div class="research-focus-item">
     <h3>Teaching Assistant</h3>
-    <p>As a Teaching Assistant at Kansas State University, I had the opportunity to teach two courses: the <a href="https://seasonaladaptation.org/r-group/">R User Group</a> from 2015-2016, a group that teaches core principles of R to new users and a course entitled "Insects and People" in the Fall of 2016. "Insects and People" focused on core principles of insect biology, physiology, evolution, and the interactions with insects and people. These interactions included how insects currently affect, and have affected, agriculture, history, faith, and pop culture. I was also a teaching assistant for "Cellular Biology" laboratory at Saint Joseph's University in Spring of 2010.</p>
+    <p>As a Teaching Assistant at Kansas State University, I had the opportunity to teach two courses: the <a href="https://seasonaladaptation.org/r-group/" target="_blank" rel="noopener">R User Group</a> from 2015-2016, a group that teaches core principles of R to new users and a course entitled "Insects and People" in the Fall of 2016. "Insects and People" focused on core principles of insect biology, physiology, evolution, and the interactions with insects and people. These interactions included how insects currently affect, and have affected, agriculture, history, faith, and pop culture. I was also a teaching assistant for "Cellular Biology" laboratory at Saint Joseph's University in Spring of 2010.</p>
   </div>
 
   <div class="research-focus-item">
     <h3>GK-12 Science Outreach Educator</h3>
-    <p>From 2012-2014, I taught science classes in inner-city Philadelphia as a GK-12 Teaching Fellow in a program, <a href="https://sites.sju.edu/geokidslinks/">Geokids LINKS</a>. The program is a collaboration between <a href="http://www.gk12.org/">GK-12</a>, <a href="https://www.sju.edu/">Saint Joseph's University</a>, and the <a href="http://www.wagnerfreeinstitute.org/">Wagner Free Institute of Science of Philadelphia</a> that teaches science enrichment classes to grade school students enrolled in Philadelphia's public school system.</p>
+    <p>From 2012-2014, I taught science classes in inner-city Philadelphia as a GK-12 Teaching Fellow in a program, <a href="https://sites.sju.edu/geokidslinks/" target="_blank" rel="noopener">Geokids LINKS</a>. The program is a collaboration between <a href="http://www.gk12.org/" target="_blank" rel="noopener">GK-12</a>, <a href="https://www.sju.edu/" target="_blank" rel="noopener">Saint Joseph's University</a>, and the <a href="http://www.wagnerfreeinstitute.org/" target="_blank" rel="noopener">Wagner Free Institute of Science of Philadelphia</a> that teaches science enrichment classes to grade school students enrolled in Philadelphia's public school system.</p>
   </div>
 
   <div class="research-focus-item">
     <h3>SNAP Educator</h3>
-    <p><a href="http://www.wagnerfreeinstitute.org/SNAP.htm">SNAP</a> or Science, Nature, and Art in Philadelphia, is a program stemming from the <a href="http://www.wagnerfreeinstitute.org/">Wagner Free Institute of Science</a>, for 6th through 8th graders than focuses on preparing students for science and mathematics courses in high school. As a SNAP educator from 2012-2014, I taught a number of science and mathematics courses in Philadelphia public schools to instill the importance of STEM and encourage students to pursue STEM career paths.</p>
+    <p><a href="http://www.wagnerfreeinstitute.org/SNAP.htm" target="_blank" rel="noopener">SNAP</a> or Science, Nature, and Art in Philadelphia, is a program stemming from the <a href="http://www.wagnerfreeinstitute.org/" target="_blank" rel="noopener">Wagner Free Institute of Science</a>, for 6th through 8th graders than focuses on preparing students for science and mathematics courses in high school. As a SNAP educator from 2012-2014, I taught a number of science and mathematics courses in Philadelphia public schools to instill the importance of STEM and encourage students to pursue STEM career paths.</p>
   </div>
 
   <div class="research-focus-item">
     <h3>Noyce Intern</h3>
-    <p>The Philadelphia Summer Bridge Program was a series of courses I co-taught as a Noyce Intern over the summer of 2010 to Philadelphia public school students on the campus of the <a href="https://www.upenn.edu/">University of Pennsylvania</a>. It was a collaboration between the University of Pennsylvania, <a href="https://www.sju.edu/">Saint Joseph's University</a>, and the <a href="https://www.philasd.org/">Philadelphia School District</a> that focused on preparing public school students, transitioning from grade school to high school, in the sciences and mathematics.</p>
+    <p>The Philadelphia Summer Bridge Program was a series of courses I co-taught as a Noyce Intern over the summer of 2010 to Philadelphia public school students on the campus of the <a href="https://www.upenn.edu/" target="_blank" rel="noopener">University of Pennsylvania</a>. It was a collaboration between the University of Pennsylvania, <a href="https://www.sju.edu/" target="_blank" rel="noopener">Saint Joseph's University</a>, and the <a href="https://www.philasd.org/" target="_blank" rel="noopener">Philadelphia School District</a> that focused on preparing public school students, transitioning from grade school to high school, in the sciences and mathematics.</p>
   </div>
 </div>
 
@@ -72,8 +72,8 @@ title: Teaching & Science Outreach
 
   <div class="research-focus-item">
     <h3>Featured Columnist - "Practical Science with Phil Freda"</h3>
-    <p>Below are science articles that I wrote between 2012 and 2013 as featured columnist for <a href="https://patch.com/pennsylvania/uppermoreland">Patch.com's Upper Moreland, Pennsylvania site</a>. Patch.com is a hyper-local online news source.</p>
-    <p>They can also be found online at <a href="https://patch.com/users/philip-freda/articles">https://patch.com/users/philip-freda/articles</a></p>
+    <p>Below are science articles that I wrote between 2012 and 2013 as featured columnist for <a href="https://patch.com/pennsylvania/uppermoreland" target="_blank" rel="noopener">Patch.com's Upper Moreland, Pennsylvania site</a>. Patch.com is a hyper-local online news source.</p>
+    <p>They can also be found online at <a href="https://patch.com/users/philip-freda/articles" target="_blank" rel="noopener">https://patch.com/users/philip-freda/articles</a></p>
   </div>
 </div>
 

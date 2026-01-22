@@ -4,96 +4,96 @@ title: Publications
 ---
 
 <div style="margin-bottom: 2rem;">
-  <a href="https://scholar.google.com/citations?user=1NaI6RgAAAAJ&hl=en" class="btn" target="_blank">Google Scholar</a>
-  <a href="https://orcid.org/0000-0001-8658-9802" class="btn btn-outline" target="_blank">ORCID</a>
-  <a href="https://www.researchgate.net/profile/Philip-Freda" class="btn btn-outline" target="_blank">ResearchGate</a>
+  <a href="https://scholar.google.com/citations?user=1NaI6RgAAAAJ&hl=en" class="btn" target="_blank" rel="noopener">Google Scholar</a>
+  <a href="https://orcid.org/0000-0001-8658-9802" class="btn btn-outline" target="_blank" rel="noopener">ORCID</a>
+  <a href="https://www.researchgate.net/profile/Philip-Freda" class="btn btn-outline" target="_blank" rel="noopener">ResearchGate</a>
 </div>
 
 <div class="publications-section">
 <h2>Peer-Reviewed Articles & Reviews</h2>
 
 <div class="publication-item">
-<p>Ghosh, A., <strong>Freda, P.J.</strong>, Shahrestani, S., Orlenko, A., Scheer, J.K., Obafemi-Ajayi, T., Moore, J.H., Walker, C.T. 2026. <a href="https://www.nature.com/articles/s41598-025-31453-9">Leveraging automated machine learning to benchmark, deconstruct, and compare frailty indices for predicting adverse spinal surgery outcomes</a>. <em>Scientific Reports</em>. 16, 1849.</p>
+<p>Ghosh, A., <strong>Freda, P.J.</strong>, Shahrestani, S., Orlenko, A., Scheer, J.K., Obafemi-Ajayi, T., Moore, J.H., Walker, C.T. 2026. <a href="https://www.nature.com/articles/s41598-025-31453-9" target="_blank" rel="noopener">Leveraging automated machine learning to benchmark, deconstruct, and compare frailty indices for predicting adverse spinal surgery outcomes</a>. <em>Scientific Reports</em>. 16, 1849.</p>
 </div>
 
 <div class="publication-item">
-<p>Ghosh, A., <strong>Freda, P.J.</strong>, Shahrestani, S., Boyke, A.E., Orlenko, A., Choi, H., Matsumoto, N., Obafemi-Ajayi, T., Moore, J.H., Walker, C.T. 2025. <a href="https://www.sciencedirect.com/science/article/pii/S152994302500052X">Preoperative anemia is an unsuspecting driver of machine learning prediction of adverse outcomes after lumbar spinal fusion</a>. <em>The Spine Journal</em>. 25, 8. 1596-1607.</p>
+<p>Ghosh, A., <strong>Freda, P.J.</strong>, Shahrestani, S., Boyke, A.E., Orlenko, A., Choi, H., Matsumoto, N., Obafemi-Ajayi, T., Moore, J.H., Walker, C.T. 2025. <a href="https://www.sciencedirect.com/science/article/pii/S152994302500052X" target="_blank" rel="noopener">Preoperative anemia is an unsuspecting driver of machine learning prediction of adverse outcomes after lumbar spinal fusion</a>. <em>The Spine Journal</em>. 25, 8. 1596-1607.</p>
 </div>
 
 <div class="publication-item">
-<p>Sha, Z., <strong>Freda, P.J.</strong>, Bhandary, P., Ghosh, A., Matsumoto, N., Moore, J.H., Hu, T. 2024. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00413-w">Distinct network patterns emerge from Cartesian and XOR epistasis models: a comparative network science analysis</a>. <em>BioData Mining</em>. 17, 61.</p>
+<p>Sha, Z., <strong>Freda, P.J.</strong>, Bhandary, P., Ghosh, A., Matsumoto, N., Moore, J.H., Hu, T. 2024. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00413-w" target="_blank" rel="noopener">Distinct network patterns emerge from Cartesian and XOR epistasis models: a comparative network science analysis</a>. <em>BioData Mining</em>. 17, 61.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Ghosh, A., Bhandary, P., Matsumoto, N., Chitre, A.S., Zhou, J., Hall, M.A., Palmer, A.A., Obafemi-Ajayi, T., Moore, J.H. 2024. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00393-x">PAGER: A novel genotype encoding strategy for modeling deviations from additivity in complex trait association studies</a>. <em>BioData Mining</em>. 17, 41.</p>
+<p><strong>Freda, P.J.</strong>, Ghosh, A., Bhandary, P., Matsumoto, N., Chitre, A.S., Zhou, J., Hall, M.A., Palmer, A.A., Obafemi-Ajayi, T., Moore, J.H. 2024. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00393-x" target="_blank" rel="noopener">PAGER: A novel genotype encoding strategy for modeling deviations from additivity in complex trait association studies</a>. <em>BioData Mining</em>. 17, 41.</p>
 </div>
 
 <div class="publication-item">
-<p>Li, C., Mowery, D.L., Ma, X., Yang, R., Vurgun, U., Hwang, S., Donnelly, H.K., Bandhey, H., Senathirajah, Y., Visweswaran, S., Sadhu, E.M., Akhtar, Z., Getzen, E., <strong>Freda, P.J.</strong>, Long, Q., Becich, M.J. 2024. <a href="https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/realizing-the-potential-of-social-determinants-data-in-ehr-systems-a-scoping-review-of-approaches-for-screening-linkage-extraction-analysis-and-interventions/158E0DF4F22EE33E2E4957E784637D26">Realizing the potential of social determinants data in EHR systems: A scoping review</a>. <em>Journal of Clinical and Translational Science</em>. 8, 1. e147.</p>
+<p>Li, C., Mowery, D.L., Ma, X., Yang, R., Vurgun, U., Hwang, S., Donnelly, H.K., Bandhey, H., Senathirajah, Y., Visweswaran, S., Sadhu, E.M., Akhtar, Z., Getzen, E., <strong>Freda, P.J.</strong>, Long, Q., Becich, M.J. 2024. <a href="https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/realizing-the-potential-of-social-determinants-data-in-ehr-systems-a-scoping-review-of-approaches-for-screening-linkage-extraction-analysis-and-interventions/158E0DF4F22EE33E2E4957E784637D26" target="_blank" rel="noopener">Realizing the potential of social determinants data in EHR systems: A scoping review</a>. <em>Journal of Clinical and Translational Science</em>. 8, 1. e147.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Ye, S., Zhang, R., Moore, J.H., Urbanowicz, R.J. 2024. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00390-0">Assessing the limitations of relief-based algorithms in detecting higher-order interactions</a>. <em>BioData Mining</em>. 17, 37.</p>
+<p><strong>Freda, P.J.</strong>, Ye, S., Zhang, R., Moore, J.H., Urbanowicz, R.J. 2024. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00390-0" target="_blank" rel="noopener">Assessing the limitations of relief-based algorithms in detecting higher-order interactions</a>. <em>BioData Mining</em>. 17, 37.</p>
 </div>
 
 <div class="publication-item">
-<p>Batista, S., Madar, V., <strong>Freda, P.J.</strong>, Bhandary, P., Ghosh, A., Matsumoto, N., Chitre, A.S., Palmer, A.A., Moore, J.H. 2024. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00358-0">Interaction models matter: an efficient, flexible computational framework for model-specific investigation of epistasis</a>. <em>BioData Mining</em>. 17, 7.</p>
+<p>Batista, S., Madar, V., <strong>Freda, P.J.</strong>, Bhandary, P., Ghosh, A., Matsumoto, N., Chitre, A.S., Palmer, A.A., Moore, J.H. 2024. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00358-0" target="_blank" rel="noopener">Interaction models matter: an efficient, flexible computational framework for model-specific investigation of epistasis</a>. <em>BioData Mining</em>. 17, 7.</p>
 </div>
 
 <div class="publication-item">
-<p>Poulsen, M.N., <strong>Freda, P.J.</strong>, Troiani, V., Mowery, D.L. 2024. <a href="https://mental.jmir.org/2024/1/e53366">Developing a Framework to Infer Opioid Use Disorder Severity From Clinical Notes: Characterization Study</a>. <em>JMIR Mental Health</em>. 11:e53366.</p>
+<p>Poulsen, M.N., <strong>Freda, P.J.</strong>, Troiani, V., Mowery, D.L. 2024. <a href="https://mental.jmir.org/2024/1/e53366" target="_blank" rel="noopener">Developing a Framework to Infer Opioid Use Disorder Severity From Clinical Notes: Characterization Study</a>. <em>JMIR Mental Health</em>. 11:e53366.</p>
 </div>
 
 <div class="publication-item">
-<p>Orlenko, A., <strong>Freda, P.J.</strong>, Ghosh, A., Choi, H., Matsumoto, N., Bright, T.J., Walker, C.T., Obafemi-Ajayi, T., Moore, J.H. 2023. <a href="https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0028">Cluster Analysis reveals Socioeconomic Disparities among Elective Spine Surgery Patients</a>. <em>Biocomputing 2024</em>. pp. 359-373.</p>
+<p>Orlenko, A., <strong>Freda, P.J.</strong>, Ghosh, A., Choi, H., Matsumoto, N., Bright, T.J., Walker, C.T., Obafemi-Ajayi, T., Moore, J.H. 2023. <a href="https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0028" target="_blank" rel="noopener">Cluster Analysis reveals Socioeconomic Disparities among Elective Spine Surgery Patients</a>. <em>Biocomputing 2024</em>. pp. 359-373.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Ghosh, A., Zhang, E., Luo, T., Chitre, A.S., Polesskaya, O., St. Pierre, C.L., Gao, J., Martin, C.D., Chen, H., Garcia-Martinez, A.G., Wang, T., Han, W., Ishiwari, K., Meyer, P., Lamparelli, A., King. C.P., Palmer, A.A., Li, R., Moore, J.H. 2023. <a href="https://doi.org/10.1186/s13040-023-00331-3">Automated quantitative trait locus analysis (AutoQTL)</a>. <em>BioData Mining</em>.</p>
+<p><strong>Freda, P.J.</strong>, Ghosh, A., Zhang, E., Luo, T., Chitre, A.S., Polesskaya, O., St. Pierre, C.L., Gao, J., Martin, C.D., Chen, H., Garcia-Martinez, A.G., Wang, T., Han, W., Ishiwari, K., Meyer, P., Lamparelli, A., King. C.P., Palmer, A.A., Li, R., Moore, J.H. 2023. <a href="https://doi.org/10.1186/s13040-023-00331-3" target="_blank" rel="noopener">Automated quantitative trait locus analysis (AutoQTL)</a>. <em>BioData Mining</em>.</p>
 </div>
 
 <div class="publication-item">
-<p>Kennedy, E.E., Davoudi, A., Hwang, S., <strong>Freda, P.J.</strong>, Urbanowicz, R., Bowles, K.H., Mowery, D.L. 2022. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148308/">Identifying Barriers to Post-Acute Care Referral and Characterizing Negative Patient Preferences Using Natural Language Processing</a>. <em>AMIA Annu. Symp. Proc</em>. 606–615.</p>
+<p>Kennedy, E.E., Davoudi, A., Hwang, S., <strong>Freda, P.J.</strong>, Urbanowicz, R., Bowles, K.H., Mowery, D.L. 2022. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148308/" target="_blank" rel="noopener">Identifying Barriers to Post-Acute Care Referral and Characterizing Negative Patient Preferences Using Natural Language Processing</a>. <em>AMIA Annu. Symp. Proc</em>. 606–615.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Kranzler, H.R., Moore, J.H. 2022. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-022-00301-1">Novel digital approaches to the assessment of problematic opioid use</a>. <em>BioData Mining</em>.</p>
+<p><strong>Freda, P.J.</strong>, Kranzler, H.R., Moore, J.H. 2022. <a href="https://biodatamining.biomedcentral.com/articles/10.1186/s13040-022-00301-1" target="_blank" rel="noopener">Novel digital approaches to the assessment of problematic opioid use</a>. <em>BioData Mining</em>.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Toxopeus, J., Dowle, E.J., Ali, Z.A., Heter, N., Collier, R.L., Sower, I., Tucker, J.C., Morgan, T.J., Ragland, G.J. 2022. <a href="https://journals.biologists.com/jeb/article-abstract/225/11/jeb244063/275641">Transcriptomic and functional genetic evidence for distinct ecophysiological responses across complex life cycle stages</a>. <em>Journal of Experimental Biology</em>.</p>
+<p><strong>Freda, P.J.</strong>, Toxopeus, J., Dowle, E.J., Ali, Z.A., Heter, N., Collier, R.L., Sower, I., Tucker, J.C., Morgan, T.J., Ragland, G.J. 2022. <a href="https://journals.biologists.com/jeb/article-abstract/225/11/jeb244063/275641" target="_blank" rel="noopener">Transcriptomic and functional genetic evidence for distinct ecophysiological responses across complex life cycle stages</a>. <em>Journal of Experimental Biology</em>.</p>
 </div>
 
 <div class="publication-item">
-<p>Poulsen, M.N., <strong>Freda, P.J.</strong>, Troiani, V., Davoudi, A., Mowery, D.L. 2022. <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2022.850619/full">Classifying characteristics of opioid use disorder for hospital discharge summaries using natural language processing</a>. <em>Frontiers in Public Health</em>.</p>
+<p>Poulsen, M.N., <strong>Freda, P.J.</strong>, Troiani, V., Davoudi, A., Mowery, D.L. 2022. <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2022.850619/full" target="_blank" rel="noopener">Classifying characteristics of opioid use disorder for hospital discharge summaries using natural language processing</a>. <em>Frontiers in Public Health</em>.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Moore, J.H., Kranzler, H.R. 2021. <a href="https://www.sciencedirect.com/science/article/pii/S0376871621000971">The phenomics and genetics of addictive and affective comorbidity in opioid use disorder</a>. <em>Drug and Alcohol Dependence</em>.</p>
+<p><strong>Freda, P.J.</strong>, Moore, J.H., Kranzler, H.R. 2021. <a href="https://www.sciencedirect.com/science/article/pii/S0376871621000971" target="_blank" rel="noopener">The phenomics and genetics of addictive and affective comorbidity in opioid use disorder</a>. <em>Drug and Alcohol Dependence</em>.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Ali, Z.M., Heter, N., Ragland, G.J., Morgan, T.J. 2019. <a href="https://www.nature.com/articles/s41437-019-0236-9">Stage-specific genotype-by-environment interactions for cold and heat hardiness in <em>Drosophila melanogaster</em></a>. <em>Heredity</em>.</p>
+<p><strong>Freda, P.J.</strong>, Ali, Z.M., Heter, N., Ragland, G.J., Morgan, T.J. 2019. <a href="https://www.nature.com/articles/s41437-019-0236-9" target="_blank" rel="noopener">Stage-specific genotype-by-environment interactions for cold and heat hardiness in <em>Drosophila melanogaster</em></a>. <em>Heredity</em>.</p>
 </div>
 
 <div class="publication-item">
-<p>Everman, E.R, <strong>Freda, P.J.</strong>, Brown, M., Schieferecke, A.J., Ragland, G.J., Morgan, T.J. 2018. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29846535">Ovary development and cold tolerance of the invasive pest <em>Drosophila suzukii</em> (Matsumura) in the central plains</a>. <em>Environmental Entomology</em>.</p>
+<p>Everman, E.R, <strong>Freda, P.J.</strong>, Brown, M., Schieferecke, A.J., Ragland, G.J., Morgan, T.J. 2018. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29846535" target="_blank" rel="noopener">Ovary development and cold tolerance of the invasive pest <em>Drosophila suzukii</em> (Matsumura) in the central plains</a>. <em>Environmental Entomology</em>.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Alex, J.T., Morgan, T.J., Ragland, G.J. 2017. <a href="https://academic.oup.com/icb/article-abstract/doi/10.1093/icb/icx102/4555051">Genetic Decoupling of Thermal Hardiness across Metamorphosis in <em>Drosophila melanogaster</em></a>. <em>Integrative and Comparative Biology</em>, 57(5), 999-1009.</p>
+<p><strong>Freda, P.J.</strong>, Alex, J.T., Morgan, T.J., Ragland, G.J. 2017. <a href="https://academic.oup.com/icb/article-abstract/doi/10.1093/icb/icx102/4555051" target="_blank" rel="noopener">Genetic Decoupling of Thermal Hardiness across Metamorphosis in <em>Drosophila melanogaster</em></a>. <em>Integrative and Comparative Biology</em>, 57(5), 999-1009.</p>
 </div>
 
 <div class="publication-item">
-<p>Leung, W., Shaffer, C.D., Reed, L.K., [...], <strong>Freda, P.J.</strong>, [...], Elgin, S.C.R. 2015. <a href="https://www.researchgate.net/publication/273148966">Drosophila Muller F Elements Maintain a Distinct Set of Genomic Properties Over 40 Million Years of Evolution</a>. <em>G3-Genes Genomes Genetics</em>, 5(5).</p>
+<p>Leung, W., Shaffer, C.D., Reed, L.K., [...], <strong>Freda, P.J.</strong>, [...], Elgin, S.C.R. 2015. <a href="https://www.researchgate.net/publication/273148966" target="_blank" rel="noopener">Drosophila Muller F Elements Maintain a Distinct Set of Genomic Properties Over 40 Million Years of Evolution</a>. <em>G3-Genes Genomes Genetics</em>, 5(5).</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Braverman, J. 2013. <a href="https://www.researchgate.net/publication/257959274"><em>Drosophila suzukii</em>, or Spotted Wing Drosophila, Recorded in Southeastern Pennsylvania, U.S.A.</a> <em>Entomological News</em>, 123(1), 71-75.</p>
+<p><strong>Freda, P.J.</strong>, Braverman, J. 2013. <a href="https://www.researchgate.net/publication/257959274" target="_blank" rel="noopener"><em>Drosophila suzukii</em>, or Spotted Wing Drosophila, Recorded in Southeastern Pennsylvania, U.S.A.</a> <em>Entomological News</em>, 123(1), 71-75.</p>
 </div>
 
 <div class="publication-item">
-<p><strong>Freda, P.J.</strong>, Braverman, J. 2013. <a href="https://www.researchgate.net/publication/260417270">An Efficient, Practical, and Reliable <em>Drosophila</em> Trap</a>. <em>Drosophila Information Service</em>, 96, 199-201.</p>
+<p><strong>Freda, P.J.</strong>, Braverman, J. 2013. <a href="https://www.researchgate.net/publication/260417270" target="_blank" rel="noopener">An Efficient, Practical, and Reliable <em>Drosophila</em> Trap</a>. <em>Drosophila Information Service</em>, 96, 199-201.</p>
 </div>
 </div>
 
