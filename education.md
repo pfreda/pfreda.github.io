@@ -22,7 +22,7 @@ title: Education
     <img src="/assets/images/2024/03/4bd8d6ad-1425-4760-a131-bbb3d55e4f21.jpg" alt="Kansas State University">
   </div>
   <div class="education-content">
-    <h3>Doctor of Philosophy (Ph.D.) in Genetics, Genomics, Evolution, and Ecology</h3>
+    <h3>Doctor of Philosophy (Ph.D.) in Entomology with a focus in Ecological Genomics</h3>
     <div class="education-institution">Kansas State University</div>
     <div class="education-dates">2014 – 2018</div>
     <p>PhD in entomology with a focus in ecological genomics under the advisement of Gregory J. Ragland, PhD and Theodore J. Morgan, PhD. Dissertation research examined thermal tolerance phenotypes in <em>Drosophila melanogaster</em>, investigating genetic decoupling of thermal hardiness across metamorphic stages and providing support for the "adaptive decoupling hypothesis."</p>
