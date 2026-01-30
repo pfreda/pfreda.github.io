@@ -15,7 +15,7 @@ title: People
     <p class="person-affiliation">Research Scientist I<br>Department of Computational Biomedicine<br>Cedars-Sinai Medical Center</p>
 
     <div class="person-bio">
-      <p>Phil is a clinical informatician and AI researcher passionate about making healthcare data work harder for patients. His research focuses on building intelligent systems that can navigate the complexity of real-world clinical data—from messy EHR records to unstructured clinical notes—and transform them into actionable insights for clinicians and researchers.</p>
+      <p>Phil is a clinical informatician, computational biologist, and AI researcher passionate about making healthcare data work harder for patients. His research focuses on building intelligent systems that can navigate the complexity of real-world clinical data—from messy EHR records to unstructured clinical notes—and transform them into actionable insights for clinicians and researchers.</p>
 
       <p>Before diving into clinical AI, Phil spent years studying thermal biology and evolutionary genetics in fruit flies, earning his Ph.D. from Kansas State University. That training in dealing with noisy biological data, complex interactions, and the importance of rigorous methodology followed him into the clinical domain, where he now applies similar thinking to human health challenges.</p>
 
