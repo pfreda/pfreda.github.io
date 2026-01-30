@@ -25,7 +25,7 @@ title: Education
     <h3>Doctor of Philosophy (Ph.D.) in Genetics, Genomics, Evolution, and Ecology</h3>
     <div class="education-institution">Kansas State University</div>
     <div class="education-dates">2014 – 2018</div>
-    <p>PhD in genetics and genomics under the advisement of Gregory J. Ragland, PhD and Theodore J. Morgan, PhD. Dissertation research examined thermal tolerance phenotypes in <em>Drosophila melanogaster</em>, investigating genetic decoupling of thermal hardiness across metamorphic stages and providing support for the "adaptive decoupling hypothesis."</p>
+    <p>PhD in entomology with a focus in ecological genomics under the advisement of Gregory J. Ragland, PhD and Theodore J. Morgan, PhD. Dissertation research examined thermal tolerance phenotypes in <em>Drosophila melanogaster</em>, investigating genetic decoupling of thermal hardiness across metamorphic stages and providing support for the "adaptive decoupling hypothesis."</p>
   </div>
 </div>
 
@@ -37,7 +37,7 @@ title: Education
     <h3>Master of Science (M.S.) in Biology</h3>
     <div class="education-institution">Saint Joseph's University</div>
     <div class="education-dates">2010 – 2014</div>
-    <p>Master's degree in Biology under the advisement of John Braverman, PhD. Thesis work catalogued <em>Drosophila</em> specimens and identified temporal microsatellite allele variation in <em>D. simulans</em>. Also recorded the invasive spotted-wing drosophila (<em>D. suzukii</em>) in Southeastern Pennsylvania for the first time. Graduated with 4.0 GPA.</p>
+    <p>Master's degree in Biology under the advisement of John Braverman, PhD. Thesis work catalogued <em>Drosophila</em> specimens and identified temporal microsatellite allele variation in <em>D. simulans</em>. Also recorded the invasive spotted-wing drosophila (<em>D. suzukii</em>) in Southeastern Pennsylvania for the first time. </p>
   </div>
 </div>
 
