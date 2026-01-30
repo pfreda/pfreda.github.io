@@ -24,7 +24,9 @@ show_title: false
 
       <p>We develop AI-driven methods that make clinical data more usable for prediction, discovery, and decision support. Our work sits at the intersection of clinical informatics, machine learning, and translational research, with a focus on building automated (and increasingly agentic) pipelines that transform noisy EHR data into clinically actionable representations.</p>
 
-      <p>Major themes of our research include improving risk identification for adverse spine surgery outcomes and for problematic opioid use/opioid use disorder, leveraging structured EHR elements, clinical narratives, imaging, and social determinants of health to model patient risk and heterogeneity. We also design knowledge-graph–based frameworks that capture relationships among clinical concepts, data quality operations, and model behavior to support transparent, auditable AI workflows and human–AI collaboration. In parallel, we develop automated machine learning frameworks for genotype-to-phenotype mapping, with emphasis on detecting epistatic and other non-additive genetic effects that traditional additive models often miss.</p>
+      <p>Major themes of our research include improving risk identification for adverse spine surgery outcomes and for problematic opioid use/opioid use disorder, leveraging structured EHR elements, clinical narratives, imaging, and social determinants of health to model patient risk and heterogeneity. We also design knowledge-graph–based frameworks that capture relationships among clinical concepts, data quality operations, and model behavior to support transparent, auditable AI workflows and human–AI collaboration.</p>
+
+      <p>In parallel, we develop automated machine learning frameworks for genotype-to-phenotype mapping, with emphasis on detecting epistatic and other non-additive genetic effects that traditional additive models often miss.</p>
     </div>
   </div>
 </div>

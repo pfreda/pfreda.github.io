@@ -445,12 +445,12 @@ blockquote {
 .intro-card-content {
   display: flex;
   gap: 2rem;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .intro-card-image {
-  width: 240px;
-  height: 240px;
+  width: 280px;
+  height: 280px;
   flex-shrink: 0;
   object-fit: cover;
   border-radius: var(--radius-lg);
@@ -474,6 +474,7 @@ blockquote {
   font-size: 1.05rem;
   line-height: 1.85;
   color: var(--color-text);
+  text-align: justify;
 }
 
 .intro-card-text p:last-child {
