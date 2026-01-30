@@ -710,6 +710,7 @@ blockquote {
 
 .research-flex p {
   margin: 0;
+  text-align: justify;
 }
 
 .research-flex-reverse {
@@ -887,6 +888,10 @@ blockquote {
   background: rgba(88, 166, 255, 0.1);
   border-radius: var(--radius-sm);
   display: inline-block;
+}
+
+.education-content p {
+  text-align: justify;
 }
 
 .education-content p:last-child {
