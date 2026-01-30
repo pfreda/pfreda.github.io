@@ -445,12 +445,11 @@ blockquote {
 .intro-card-content {
   display: flex;
   gap: 2rem;
-  align-items: center;
+  align-items: stretch;
 }
 
 .intro-card-image {
   width: 280px;
-  height: 280px;
   flex-shrink: 0;
   object-fit: cover;
   border-radius: var(--radius-lg);
@@ -493,8 +492,10 @@ blockquote {
   }
 
   .intro-card-image {
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    max-width: 280px;
+    height: auto;
+    aspect-ratio: 2 / 3;
   }
 }
 
