@@ -18,9 +18,7 @@ show_title: false
 
 <div class="intro-card">
   <div class="intro-card-content">
-    <div class="intro-card-image-wrapper">
-      <img src="/assets/images/frontpageimage_long.jpg" alt="Research visualization" class="intro-card-image">
-    </div>
+    <img src="/assets/images/frontpageimage_long.jpg" alt="Research visualization" class="intro-card-image">
     <div class="intro-card-text">
       <p>The <strong>Freda Lab</strong> is based in the <a href="https://www.cedars-sinai.edu/research/departments-institutes/computational-biomedicine.html" target="_blank" rel="noopener">Department of Computational Biomedicine</a> at <a href="https://www.cedars-sinai.org/" target="_blank" rel="noopener">Cedars-Sinai Medical Center</a> in Los Angeles, CA.</p>
 
