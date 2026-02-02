@@ -8,7 +8,7 @@ show_title: false
   <img src="/assets/images/FredaLabLogo.png" alt="Freda Lab Logo" class="hero-logo">
   <div class="hero-content">
     <h1>Freda Lab</h1>
-    <p class="hero-subtitle">AI for Clinical Prediction & Informatics @ Cedars-Sinai</p>
+    <p class="hero-subtitle">Translational AI for Clinical Prediction & Informatics @ Cedars-Sinai</p>
   </div>
 </div>
 
