@@ -39,6 +39,6 @@ title: Research
 <h2>AutoML for Genotype–Phenotype Association Analysis</h2>
 <div class="research-flex">
   <img src="/assets/images/2026/01/starbase-gp-logo.png" alt="StarBASE-GP">
-  <p>Complex traits often depend on <strong>epistatic (gene-gene) interactions</strong> and non-additive genetic effects that standard GWAS approaches miss. The <strong>StarBASE-GP</strong> tool we've developed evaluates multiple inheritance models and detects epistatic interactions, moving beyond additive-only assumptions to improve detection of complex genetic architectures. This work spans addiction genetics, metabolic traits, and model organism studies, with a focus on making interaction findings biologically interpretable and clinically actionable.</p>
+  <p>Complex traits often depend on <strong>epistatic (gene-gene) interactions</strong> and non-additive genetic effects that standard GWAS approaches miss. We leverage <strong>genetic programming</strong> and <strong>evolutionary algorithms</strong> to tackle these challenges. The <strong>StarBASE-GP</strong> tool we've developed uses genetic programming to evolve interpretable models that evaluate multiple inheritance patterns and detect epistatic interactions, moving beyond additive-only assumptions to improve detection of complex genetic architectures. This work spans addiction genetics, metabolic traits, and model organism studies, with a focus on making interaction findings biologically interpretable and clinically actionable.</p>
 </div>
 </div>

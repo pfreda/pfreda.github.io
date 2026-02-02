@@ -26,7 +26,7 @@ show_title: false
 
       <p>Major themes of our research include improving risk identification for adverse spine surgery outcomes and for problematic opioid use/opioid use disorder, leveraging structured EHR elements, clinical narratives, imaging, and social determinants of health to model patient risk and heterogeneity. We also design knowledge-graph–based frameworks that capture relationships among clinical concepts, data quality operations, and model behavior to support transparent, auditable AI workflows and human–AI collaboration.</p>
 
-      <p>In parallel, we develop automated machine learning frameworks for genotype-to-phenotype mapping, with emphasis on detecting epistatic and other non-additive genetic effects that traditional additive models often miss.</p>
+      <p>In parallel, we develop automated machine learning frameworks, including genetic programming and evolutionary algorithms, for genotype-to-phenotype association analysis, with emphasis on detecting epistatic and other non-additive genetic effects that traditional additive models often miss.</p>
     </div>
   </div>
 </div>
@@ -70,7 +70,8 @@ show_title: false
   <div class="research-focus-item">
     <h3>Computational Genetics</h3>
     <ul>
-      <li>Complex trait modeling and interaction-focused methods (epistasis, non-additivity, AutoML for trait discovery)</li>
+      <li>Genetic programming and evolutionary algorithm-based methods for genotype-to-phenotype association analysis</li>
+      <li>Complex trait modeling with emphasis on epistasis, non-additivity, and gene-gene interactions</li>
     </ul>
   </div>
 </div>
