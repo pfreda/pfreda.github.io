@@ -8,6 +8,11 @@ title: The Road So Far
 <div class="timeline">
 
 <div class="timeline-item">
+<div class="timeline-date">February 2026</div>
+<p>Delivered seminar "Leveraging Automated Machine Learning to Benchmark, Deconstruct, and Compare Frailty Indices" in the Cedars-Sinai Division of Informatics Clinical Informatics Rotation Seminar Series.</p>
+</div>
+
+<div class="timeline-item">
 <div class="timeline-date">January 2026</div>
 <p>Co-developed and began co-teaching "Artificial Intelligence" (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank" rel="noopener">Health Artificial Intelligence</a>.</p>
 </div>
