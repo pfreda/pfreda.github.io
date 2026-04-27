@@ -30,6 +30,11 @@ title: Teaching & Science Outreach
       <li>Data Science & Automated Machine Learning</li>
       <li>Rule-Based Machine Learning</li>
     </ul>
+    <p>Specifically, I developed and taught the following lectures for the course (recordings available on YouTube):</p>
+    <ul>
+      <li><a href="https://youtu.be/NlFLHCZgS28" target="_blank" rel="noopener">The Nature of Uncertainty and Information Theory: Entropy & Mutual Information</a></li>
+      <li><a href="https://youtu.be/_lXLpFEJ1VA" target="_blank" rel="noopener">Bayesian Networks and Probabilistic Reasoning</a></li>
+    </ul>
   </div>
 
   <div class="research-focus-item">
@@ -45,7 +50,7 @@ title: Teaching & Science Outreach
 
   <div class="research-focus-item">
     <h3>Workshops</h3>
-    <p>"Agentic AI Systems for <em>in silico</em> Team Science: From LLM Basics to Lab Assistant Agents". Presented at the July 2026 Intelligent Systems for Molecular Biology Conference in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
+    <p>"Agentic AI Systems for <em>in silico</em> Team Science: From LLM Basics to Lab Assistant Agents". Presented at the 2026 Intelligent Systems for Molecular Biology Conference in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
   </div>
 
   <div class="research-focus-item">
@@ -59,7 +64,8 @@ title: Teaching & Science Outreach
   <div class="research-focus-item">
     <h3>Teaching Assistant</h3>
     <ul>
-      <li>As a Teaching Assistant at Kansas State University, I had the opportunity to teach two courses: the <a href="https://seasonaladaptation.org/r-group/" target="_blank" rel="noopener">R User Group</a> from 2015-2016, a group that teaches core principles of R to new users and a course entitled "Insects and People" in the Fall of 2016. "Insects and People" focused on core principles of insect biology, physiology, evolution, and the interactions with insects and people. These interactions included how insects currently affect, and have affected, agriculture, history, faith, and pop culture.</li>
+      <li>As a Teaching Assistant at Kansas State University, I taught the <a href="https://seasonaladaptation.org/r-group/" target="_blank" rel="noopener">R User Group</a> from 2015-2016, a course dedicated to teaching the core principles of R programming to new users.</li>
+      <li>Also at Kansas State University, I was a Teaching Assistant for "Insects and People" in the Fall of 2016. This course focused on the core principles of insect biology, physiology, and evolution, highlighting the profound interactions between insects and people throughout agriculture, history, faith, and pop culture.</li>
       <li>I was also a teaching assistant for "Cellular Biology" laboratory at Saint Joseph's University in Spring of 2010.</li>
     </ul>
   </div>
