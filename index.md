@@ -20,7 +20,7 @@ show_title: false
   <div class="intro-card-content">
     <img src="/assets/images/frontpageimage_long.jpg" alt="Research visualization" class="intro-card-image">
     <div class="intro-card-text">
-      <p>The <strong>Freda Lab</strong> is based in the <a href="https://www.cedars-sinai.edu/research/departments-institutes/computational-biomedicine.html" target="_blank" rel="noopener">Department of Computational Biomedicine</a> at <a href="https://www.cedars-sinai.org/" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University</a> in Los Angeles, CA.</p>
+      <p>The <strong>Freda Lab</strong> is based in the <a href="https://www.cedars-sinai.edu/research/departments-institutes/computational-biomedicine.html" target="_blank" rel="noopener">Department of Computational Biomedicine</a> at <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University</a> in Los Angeles, CA.</p>
 
       <p>We develop AI-driven methods that make clinical data more usable for prediction, discovery, and decision support. Our work sits at the intersection of clinical informatics, machine learning, and translational research, with a focus on building automated (and increasingly agentic) pipelines that transform noisy EHR data into clinically actionable representations.</p>
 
