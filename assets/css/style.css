@@ -1402,12 +1402,27 @@ blockquote {
   border: 1px solid rgba(99, 102, 241, 0.2);
 }
 
-.person-image img {
+.person-image > .headshot-img {
   width: 280px;
   height: 280px;
   object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.nasa-names {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  align-items: center;
+}
+
+.nasa-names .nasa-name-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
 }
 
 .person-info h2 {
@@ -1525,12 +1540,18 @@ blockquote {
 
   .person-image {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
   }
 
-  .person-image img {
+  .person-image .headshot-img {
     width: 200px;
     height: 200px;
+  }
+
+  .nasa-names {
+    width: 100%;
+    max-width: 300px;
   }
 
   .person-interests ul {

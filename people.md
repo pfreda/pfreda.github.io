@@ -7,7 +7,11 @@ title: People
 
 <div class="person-card principal-investigator">
   <div class="person-image">
-    <img src="/assets/images/2023/02/headshot3.jpg" alt="Philip J. Freda, Jr., Ph.D., M.S.">
+    <img src="/assets/images/2023/02/headshot3.jpg" alt="Philip J. Freda, Jr., Ph.D., M.S." class="headshot-img">
+    <div class="nasa-names">
+      <img src="/assets/images/Philip.png" alt="Philip spelled in NASA satellite imagery" class="nasa-name-img">
+      <img src="/assets/images/Freda.png" alt="Freda spelled in NASA satellite imagery" class="nasa-name-img">
+    </div>
   </div>
   <div class="person-info">
     <h2>Philip J. Freda, Jr., Ph.D., M.S.</h2>
