@@ -16,7 +16,7 @@ title: People
   <div class="person-info">
     <h2>Philip J. Freda, Jr., Ph.D., M.S.</h2>
     <p class="person-title">Principal Investigator</p>
-    <p class="person-affiliation">Research Scientist I<br>Department of Computational Biomedicine<br>Cedars-Sinai Medical Center</p>
+    <p class="person-affiliation">Research Scientist I<br>Department of Computational Biomedicine<br>Cedars-Sinai Health Sciences University</p>
 
     <div class="person-bio">
       <p>Phil is a clinical informatician, computational biologist, and AI researcher passionate about making healthcare data work harder for patients. His research focuses on building intelligent systems that can navigate the complexity of real-world clinical data, from messy EHR records to unstructured clinical notes, and transform them into actionable insights for clinicians and researchers. His work also extends to computational genetics, where he develops evolutionary computation approaches for uncovering complex genetic associations.</p>
