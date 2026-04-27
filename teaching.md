@@ -33,17 +33,24 @@ title: Teaching & Science Outreach
   </div>
 
   <div class="research-focus-item">
-    <h3>Invited Lectures & Seminars</h3>
-    <p>I have given the following invited classroom lectures:</p>
+    <h3>Lectures & Seminars</h3>
+    <p>I have given the following classroom lectures:</p>
     <ul>
+      <li>Lecturer for the Cedars-Sinai Medical Center Division of Informatics Clinical Rotations. These online lectures provide residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</li>
+      <li>"Agentic AI in Health Data Science: Building and Evaluating Autonomous Workflows" in the University of Hawai'i's Quantitative Health Sciences Seminar (646).</li>
       <li>"Inferring opioid use disorder severity from clinical notes: an annotation study" in Dr. Danielle Mowery's graduate Informatics class at the <a href="https://dbei.med.upenn.edu/" target="_blank" rel="noopener">University of Pennsylvania's Department of Biostatistics, Epidemiology, and Informatics</a>.</li>
       <li>"Using R in your Research" in Dr. Edwin Li's graduate Research Techniques class at <a href="https://www.sju.edu/departments/biology" target="_blank" rel="noopener">Saint Joseph's University Department of Biology</a>.</li>
     </ul>
   </div>
 
   <div class="research-focus-item">
+    <h3>Workshops</h3>
+    <p>"Agentic AI Systems for <em>in silico</em> Team Science: From LLM Basics to Lab Assistant Agents". To be presented at the 2026 Intelligent Systems for Molecular Biology Conference in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
+  </div>
+
+  <div class="research-focus-item">
     <h3>Advising Experience</h3>
-    <p>In total, I have advised 13 undergraduate and graduate students and interns in research across my positions in academia. One of the most rewarding things to experience as a scientist is to see young people embark on their own research journeys and fall in love with the scientific process.</p>
+    <p>In total, I have advised 13 undergraduate and graduate students and interns in research across my positions in academia. One of the most rewarding things to experience as a scientist is to see young people embark on their own research journeys and fall in love with the scientific process. In addition, I have served as a Faculty Mentor for the Cedars-Sinai Medical Center Clinical Scholars Grant Writing Workshop, reviewing student grants and providing weekly pedagogical feedback and guidance.</p>
   </div>
 
   <div class="research-focus-item">

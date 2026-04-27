@@ -8,7 +8,21 @@ title: The Road So Far
 <div class="timeline">
 
 <div class="timeline-item">
+<div class="timeline-date">April 2026</div>
+<p>Served as a grant peer reviewer for the NIH Center for Scientific Review (CSR), specifically for the National Institute on Drug Abuse (NIDA).</p>
+<p>Delivered a virtual guest lecture at the University of Hawai'i's Quantitative Health Sciences Seminar (646) entitled "Agentic AI in Health Data Science: Building and Evaluating Autonomous Workflows".</p>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">March 2026</div>
+<p>Workshop accepted for presentation at the Intelligent Systems for Molecular Biology Conference (ISCB) in Washington DC: "Agentic AI Systems for <em>in silico</em> Team Science: From LLM Basics to Lab Assistant Agents".</p>
+</div>
+
+<div class="timeline-item">
 <div class="timeline-date">February 2026</div>
+<p>Accepted into the UCLA CTSI Office of Physician Scientist Career Development Spring 2026 R Grant Bootcamp with Dr. Steven Mittelman.</p>
+<p>Began as a Lecturer for the Cedars-Sinai Medical Center Division of Informatics Clinical Rotations.</p>
+<p>Served as a Faculty Mentor for the Cedars-Sinai Medical Center Clinical Scholars Grant Writing Workshop (February &ndash; April).</p>
 <p>Delivered seminar "Leveraging Automated Machine Learning to Benchmark, Deconstruct, and Compare Frailty Indices" in the Cedars-Sinai Division of Informatics Clinical Informatics Rotation Seminar Series.</p>
 </div>
 
