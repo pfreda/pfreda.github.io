@@ -8,7 +8,7 @@ title: People
 <div class="person-card principal-investigator">
   <div class="person-image">
     <img src="/assets/images/2023/02/headshot3.jpg" alt="Philip J. Freda, Jr., Ph.D., M.S." class="headshot-img">
-    <div class="nasa-names">
+    <div class="nasa-names clickable" onclick="openLandsatModal()" title="Click to learn more about these NASA images">
       <img src="/assets/images/Philip.png" alt="Philip spelled in NASA satellite imagery" class="nasa-name-img">
       <img src="/assets/images/Freda.png" alt="Freda spelled in NASA satellite imagery" class="nasa-name-img">
     </div>
@@ -82,3 +82,40 @@ title: People
   <h2>Collaborate With Us</h2>
   <p>We're always open to collaborations with researchers, clinicians, and industry partners who share our passion for clinical AI, NLP, and improving healthcare through data-driven insights. If you have an interesting problem or dataset and think there might be synergy with our work, <a href="mailto:philip.freda@cshs.org">let's talk</a>.</p>
 </div>
+
+<!-- NASA Landsat Modal -->
+<div id="landsatModal" class="landsat-modal" onclick="closeLandsatModal()">
+  <div class="modal-content" onclick="event.stopPropagation()">
+    <span class="close-btn" onclick="closeLandsatModal()">&times;</span>
+    <h2 class="modal-title">Your Name in Landsat</h2>
+    <div class="modal-images">
+      <img src="/assets/images/Philip.png" alt="Philip in Landsat" class="modal-image">
+      <img src="/assets/images/Freda.png" alt="Freda in Landsat" class="modal-image">
+    </div>
+    <p>With this online interactive, users can type in their name then view and export the graphic of that name spelled out in Earth features found in Landsat images.</p>
+    
+    <h3>About</h3>
+    <p>The satellite images used in this interactive are part of Landsat's extensive record, spanning more than 50 years. These Landsat satellite images were sourced from NASA Earth Observatory, NASA Worldview, USGS EarthExplorer, and ESA Sentinel Hub.</p>
+    
+    <div class="modal-action">
+      <a href="https://science.nasa.gov/mission/landsat/outreach/your-name-in-landsat/" class="btn" target="_blank" rel="noopener">Try it yourself</a>
+    </div>
+  </div>
+</div>
+
+<script>
+  function openLandsatModal() {
+    document.getElementById('landsatModal').classList.add('show');
+    document.body.style.overflow = 'hidden'; 
+  }
+  function closeLandsatModal() {
+    document.getElementById('landsatModal').classList.remove('show');
+    document.body.style.overflow = '';
+  }
+  
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+      closeLandsatModal();
+    }
+  });
+</script>
