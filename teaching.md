@@ -36,8 +36,8 @@ title: Teaching & Science Outreach
     <h3>Lectures & Seminars</h3>
     <p>I have given the following classroom lectures:</p>
     <ul>
-      <li>Lecturer for the Cedars-Sinai Medical Center Division of Informatics Clinical Rotations. These online lectures provide residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</li>
       <li>"Agentic AI in Health Data Science: Building and Evaluating Autonomous Workflows" in the University of Hawai'i's Quantitative Health Sciences Seminar (646).</li>
+      <li>Lecturer for the Cedars-Sinai Medical Center Division of Informatics Clinical Rotations. These online lectures provide residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</li>
       <li>"Inferring opioid use disorder severity from clinical notes: an annotation study" in Dr. Danielle Mowery's graduate Informatics class at the <a href="https://dbei.med.upenn.edu/" target="_blank" rel="noopener">University of Pennsylvania's Department of Biostatistics, Epidemiology, and Informatics</a>.</li>
       <li>"Using R in your Research" in Dr. Edwin Li's graduate Research Techniques class at <a href="https://www.sju.edu/departments/biology" target="_blank" rel="noopener">Saint Joseph's University Department of Biology</a>.</li>
     </ul>
@@ -45,17 +45,23 @@ title: Teaching & Science Outreach
 
   <div class="research-focus-item">
     <h3>Workshops</h3>
-    <p>"Agentic AI Systems for <em>in silico</em> Team Science: From LLM Basics to Lab Assistant Agents". To be presented at the 2026 Intelligent Systems for Molecular Biology Conference in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
+    <p>"Agentic AI Systems for <em>in silico</em> Team Science: From LLM Basics to Lab Assistant Agents". Presented at the July 2026 Intelligent Systems for Molecular Biology Conference in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
   </div>
 
   <div class="research-focus-item">
     <h3>Advising Experience</h3>
-    <p>In total, I have advised 13 undergraduate and graduate students and interns in research across my positions in academia. One of the most rewarding things to experience as a scientist is to see young people embark on their own research journeys and fall in love with the scientific process. In addition, I have served as a Faculty Mentor for the Cedars-Sinai Medical Center Clinical Scholars Grant Writing Workshop, reviewing student grants and providing weekly pedagogical feedback and guidance.</p>
+    <ul>
+      <li>In total, I have advised 13 undergraduate and graduate students and interns in research across my positions in academia. One of the most rewarding things to experience as a scientist is to see young people embark on their own research journeys and fall in love with the scientific process.</li>
+      <li>I have served as a Faculty Mentor for the Cedars-Sinai Medical Center Clinical Scholars Grant Writing Workshop, reviewing student grants and providing weekly pedagogical feedback and guidance.</li>
+    </ul>
   </div>
 
   <div class="research-focus-item">
     <h3>Teaching Assistant</h3>
-    <p>As a Teaching Assistant at Kansas State University, I had the opportunity to teach two courses: the <a href="https://seasonaladaptation.org/r-group/" target="_blank" rel="noopener">R User Group</a> from 2015-2016, a group that teaches core principles of R to new users and a course entitled "Insects and People" in the Fall of 2016. "Insects and People" focused on core principles of insect biology, physiology, evolution, and the interactions with insects and people. These interactions included how insects currently affect, and have affected, agriculture, history, faith, and pop culture. I was also a teaching assistant for "Cellular Biology" laboratory at Saint Joseph's University in Spring of 2010.</p>
+    <ul>
+      <li>As a Teaching Assistant at Kansas State University, I had the opportunity to teach two courses: the <a href="https://seasonaladaptation.org/r-group/" target="_blank" rel="noopener">R User Group</a> from 2015-2016, a group that teaches core principles of R to new users and a course entitled "Insects and People" in the Fall of 2016. "Insects and People" focused on core principles of insect biology, physiology, evolution, and the interactions with insects and people. These interactions included how insects currently affect, and have affected, agriculture, history, faith, and pop culture.</li>
+      <li>I was also a teaching assistant for "Cellular Biology" laboratory at Saint Joseph's University in Spring of 2010.</li>
+    </ul>
   </div>
 
   <div class="research-focus-item">
