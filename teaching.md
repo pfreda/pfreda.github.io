@@ -18,27 +18,34 @@ title: Teaching & Science Outreach
 
   <div class="research-focus-item">
     <h3>Classroom Instruction</h3>
-    <p>I have co-developed and co-teach a graduate level course in Artificial Intelligence (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank" rel="noopener">Health Artificial Intelligence</a>. The course covers topics including:</p>
     <ul>
-      <li>Expert Systems</li>
-      <li>Probability & Uncertainty</li>
-      <li>Logic & Semantic Networks</li>
-      <li>Knowledge Organization Systems</li>
-      <li>Tree-Based Machine Learning</li>
-      <li>Heuristics and Search Systems</li>
-      <li>Intelligent Agents</li>
-      <li>Data Science & Automated Machine Learning</li>
-      <li>Rule-Based Machine Learning</li>
-    </ul>
-    <p style="margin-top: 1.5rem;">Specifically, I developed and taught the following lectures for the course (recordings available on YouTube):</p>
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="display: flex; align-items: flex-start; margin-bottom: 0.5rem;">
-        <svg viewBox="0 0 24 24" width="20" height="20" style="fill: #ff0000; margin-right: 8px; flex-shrink: 0; margin-top: 2px;" xmlns="http://www.w3.org/2000/svg"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-        <a href="https://youtu.be/NlFLHCZgS28" target="_blank" rel="noopener">The Nature of Uncertainty and Information Theory: Entropy & Mutual Information</a>
+      <li>
+        <p style="margin-top: 0;">I serve as a Lecturer for <strong>Clinical Informatics (ME-ME100.01)</strong>, a course taught through UCLA's Visiting Student Learning Opportunities (VSLO) program. Delivered approximately 5-6 times per year for clinical resident rotations at Cedars-Sinai Medical Center, the curriculum provides residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</p>
       </li>
-      <li style="display: flex; align-items: flex-start;">
-        <svg viewBox="0 0 24 24" width="20" height="20" style="fill: #ff0000; margin-right: 8px; flex-shrink: 0; margin-top: 2px;" xmlns="http://www.w3.org/2000/svg"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-        <a href="https://youtu.be/_lXLpFEJ1VA" target="_blank" rel="noopener">Bayesian Networks and Probabilistic Reasoning</a>
+      <li style="margin-top: 1.5rem;">
+        <p style="margin-top: 0;">Additionally, I have co-developed and co-teach a graduate level course in Artificial Intelligence (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank" rel="noopener">Health Artificial Intelligence</a>. The course covers topics including:</p>
+        <ul>
+          <li>Expert Systems</li>
+          <li>Probability & Uncertainty</li>
+          <li>Logic & Semantic Networks</li>
+          <li>Knowledge Organization Systems</li>
+          <li>Tree-Based Machine Learning</li>
+          <li>Heuristics and Search Systems</li>
+          <li>Intelligent Agents</li>
+          <li>Data Science & Automated Machine Learning</li>
+          <li>Rule-Based Machine Learning</li>
+        </ul>
+        <p style="margin-top: 1rem;">Specifically, I developed and taught the following lectures for the course (recordings available on YouTube):</p>
+        <ul style="list-style: none; padding-left: 0;">
+          <li style="display: flex; align-items: flex-start; margin-bottom: 0.5rem;">
+            <svg viewBox="0 0 24 24" width="20" height="20" style="fill: #ff0000; margin-right: 8px; flex-shrink: 0; margin-top: 2px;" xmlns="http://www.w3.org/2000/svg"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+            <a href="https://youtu.be/NlFLHCZgS28" target="_blank" rel="noopener">The Nature of Uncertainty and Information Theory: Entropy & Mutual Information</a>
+          </li>
+          <li style="display: flex; align-items: flex-start;">
+            <svg viewBox="0 0 24 24" width="20" height="20" style="fill: #ff0000; margin-right: 8px; flex-shrink: 0; margin-top: 2px;" xmlns="http://www.w3.org/2000/svg"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+            <a href="https://youtu.be/_lXLpFEJ1VA" target="_blank" rel="noopener">Bayesian Networks and Probabilistic Reasoning</a>
+          </li>
+        </ul>
       </li>
     </ul>
   </div>
@@ -48,7 +55,6 @@ title: Teaching & Science Outreach
     <p>I have given the following classroom lectures:</p>
     <ul>
       <li>"Agentic AI in Health Data Science: Building and Evaluating Autonomous Workflows" in the University of Hawai'i's Quantitative Health Sciences Seminar (646).</li>
-      <li>Lecturer for the Cedars-Sinai Medical Center Division of Informatics Clinical Rotations. These online lectures provide residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</li>
       <li>"Inferring opioid use disorder severity from clinical notes: an annotation study" in Dr. Danielle Mowery's graduate Informatics class at the <a href="https://dbei.med.upenn.edu/" target="_blank" rel="noopener">University of Pennsylvania's Department of Biostatistics, Epidemiology, and Informatics</a>.</li>
       <li>"Using R in your Research" in Dr. Edwin Li's graduate Research Techniques class at <a href="https://www.sju.edu/departments/biology" target="_blank" rel="noopener">Saint Joseph's University Department of Biology</a>.</li>
     </ul>
@@ -56,7 +62,7 @@ title: Teaching & Science Outreach
 
   <div class="research-focus-item">
     <h3>Workshops</h3>
-    <p>"Agentic AI Systems for <em>in silico</em> Team Science: From LLM Basics to Lab Assistant Agents". Presented at the 2026 Intelligent Systems for Molecular Biology Conference in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
+    <p>"Agentic AI Methods, Systems, and Software for <em>in silico</em> Team Science". Presented at the 2026 Intelligent Systems for Molecular Biology Conference in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
   </div>
 
   <div class="research-focus-item">

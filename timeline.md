@@ -18,7 +18,7 @@ title: The Road So Far
 <div class="timeline-item">
 <div class="timeline-date">March 2026</div>
 <ul>
-<li>Workshop accepted for presentation at the Intelligent Systems for Molecular Biology Conference (ISCB) in Washington DC: "Agentic AI Systems for <em>in silico</em> Team Science: From LLM Basics to Lab Assistant Agents".</li>
+<li>Workshop accepted for presentation at the Intelligent Systems for Molecular Biology Conference (ISCB) in Washington DC: "Agentic AI Methods, Systems, and Software for <em>in silico</em> Team Science".</li>
 </ul>
 </div>
 
@@ -26,8 +26,8 @@ title: The Road So Far
 <div class="timeline-date">February 2026</div>
 <ul>
 <li>Accepted into the UCLA CTSI Office of Physician Scientist Career Development Spring 2026 R Grant Bootcamp with Dr. Steven Mittelman.</li>
-<li>Began as a Lecturer for the Cedars-Sinai Medical Center Division of Informatics Clinical Rotations.</li>
-<li>Served as a Faculty Mentor for the Cedars-Sinai Medical Center Clinical Scholars Grant Writing Workshop (February &ndash; April).</li>
+<li>Began as a lecturer for the UCLA Visiting Student Learning Opportunities (VSLO) Clinical Informatics Course (ME-ME100.01) for clinical resident rotations.</li>
+<li>Served as a faculty mentor for the Cedars-Sinai Medical Center Clinical Scholars Grant Writing Workshop (February &ndash; April).</li>
 <li>Delivered seminar "Leveraging Automated Machine Learning to Benchmark, Deconstruct, and Compare Frailty Indices" in the Cedars-Sinai Division of Informatics Clinical Informatics Rotation Seminar Series.</li>
 </ul>
 </div>
