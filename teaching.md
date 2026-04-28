@@ -20,10 +20,10 @@ title: Teaching & Science Outreach
     <h3>Classroom Instruction</h3>
     <ul>
       <li>
-        <p style="margin-top: 0;">I serve as a Lecturer for <strong>Clinical Informatics (ME-ME100.01)</strong>, a course taught through UCLA's Visiting Student Learning Opportunities (VSLO) program. Delivered approximately 5-6 times per year for clinical resident rotations at Cedars-Sinai Medical Center, the curriculum provides residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</p>
+        <p style="margin-top: 0;">I serve as a Lecturer for <strong>Clinical Informatics (ME-ME100.01)</strong>, a course taught through <a href="https://medschool.ucla.edu/education/md-education/curriculum" target="_blank" rel="noopener">UCLA's Visiting Student Learning Opportunities (VSLO) program</a>. Delivered approximately 5-6 times per year for clinical resident rotations, the curriculum provides residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</p>
       </li>
       <li style="margin-top: 1.5rem;">
-        <p style="margin-top: 0;">Additionally, I have co-developed and co-teach a graduate level course in Artificial Intelligence (HAI 100B) as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank" rel="noopener">Health Artificial Intelligence</a>. The course covers topics including:</p>
+        <p style="margin-top: 0;">Additionally, I have co-developed and co-teach a graduate level course in <strong>Artificial Intelligence (HAI 100B)</strong> as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank" rel="noopener">Health Artificial Intelligence</a>. The course covers topics including:</p>
         <ul>
           <li>Expert Systems</li>
           <li>Probability & Uncertainty</li>
@@ -35,7 +35,7 @@ title: Teaching & Science Outreach
           <li>Data Science & Automated Machine Learning</li>
           <li>Rule-Based Machine Learning</li>
         </ul>
-        <p style="margin-top: 1rem;">Specifically, I developed and taught the following lectures for the course (recordings available on YouTube):</p>
+        <p style="margin-top: 1rem;">Specifically, I developed and teach the following lectures for the course (recordings available on YouTube):</p>
         <ul style="list-style: none; padding-left: 0;">
           <li style="display: flex; align-items: flex-start; margin-bottom: 0.5rem;">
             <svg viewBox="0 0 24 24" width="20" height="20" style="fill: #ff0000; margin-right: 8px; flex-shrink: 0; margin-top: 2px;" xmlns="http://www.w3.org/2000/svg"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
