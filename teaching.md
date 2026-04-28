@@ -62,7 +62,7 @@ title: Teaching & Science Outreach
 
   <div class="research-focus-item">
     <h3>Workshops</h3>
-    <p>"Agentic AI Methods, Systems, and Software for <em>in silico</em> Team Science". Presented at the 2026 Intelligent Systems for Molecular Biology Conference in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
+    <p>"Agentic AI Methods, Systems, and Software for <em>in silico</em> Team Science". Presented at the <a href="https://www.iscb.org/ismb2026/home" target="_blank" rel="noopener">Intelligent Systems for Molecular Biology (ISMB) Conference</a> in Washington DC. This workshop guides attendees from foundational large language model concepts to the practical development and deployment of collaborative <em>in silico</em> lab assistant agents designed to accelerate team science.</p>
   </div>
 
   <div class="research-focus-item">

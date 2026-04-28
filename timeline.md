@@ -10,15 +10,15 @@ title: The Road So Far
 <div class="timeline-item">
 <div class="timeline-date">April 2026</div>
 <ul>
-<li>Served as a grant peer reviewer for the NIH Center for Scientific Review (CSR), specifically for the National Institute on Drug Abuse (NIDA).</li>
-<li>Delivered a virtual guest lecture at the University of Hawai'i's Quantitative Health Sciences Seminar (646) entitled "Agentic AI in Health Data Science: Building and Evaluating Autonomous Workflows".</li>
+<li>Served as a grant peer reviewer for the NIH Center for Scientific Review (CSR), specifically for the <a href="https://nida.nih.gov/" target="_blank" rel="noopener">National Institute on Drug Abuse (NIDA)</a>.</li>
+<li>Delivered a virtual guest lecture at the <a href="https://jabsom.hawaii.edu/education/departments/qhs/" target="_blank" rel="noopener">University of Hawai'i's Quantitative Health Sciences</a> Seminar (646) entitled "Agentic AI in Health Data Science: Building and Evaluating Autonomous Workflows".</li>
 </ul>
 </div>
 
 <div class="timeline-item">
 <div class="timeline-date">March 2026</div>
 <ul>
-<li>Workshop accepted for presentation at the Intelligent Systems for Molecular Biology Conference (ISCB) in Washington DC: "Agentic AI Methods, Systems, and Software for <em>in silico</em> Team Science".</li>
+<li>Workshop accepted for presentation at the <a href="https://www.iscb.org/ismb2026/home" target="_blank" rel="noopener">2026 Intelligent Systems for Molecular Biology (ISMB) Conference</a> in Washington DC: "Agentic AI Methods, Systems, and Software for <em>in silico</em> Team Science".</li>
 </ul>
 </div>
 
@@ -26,7 +26,7 @@ title: The Road So Far
 <div class="timeline-date">February 2026</div>
 <ul>
 <li>Accepted into the UCLA CTSI Office of Physician Scientist Career Development Spring 2026 R Grant Bootcamp with Dr. Steven Mittelman.</li>
-<li>Began as a lecturer for the UCLA Visiting Student Learning Opportunities (VSLO) Clinical Informatics Course (ME-ME100.01) for clinical resident rotations.</li>
+<li>Began as a lecturer for the <a href="https://medschool.ucla.edu/education/md-education/curriculum" target="_blank" rel="noopener">UCLA Visiting Student Learning Opportunities (VSLO)</a> Clinical Informatics Course (ME-ME100.01) for clinical resident rotations.</li>
 <li>Served as a faculty mentor for the Cedars-Sinai Medical Center Clinical Scholars Grant Writing Workshop (February &ndash; April).</li>
 <li>Delivered seminar "Leveraging Automated Machine Learning to Benchmark, Deconstruct, and Compare Frailty Indices" in the Cedars-Sinai Division of Informatics Clinical Informatics Rotation Seminar Series.</li>
 </ul>
