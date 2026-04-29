@@ -307,6 +307,12 @@ blockquote {
   border-radius: var(--radius-lg);
   position: relative;
   box-shadow: var(--shadow-md);
+  transition: all var(--transition);
+}
+
+.hero-quote:hover {
+  transform: scale(1.02);
+  box-shadow: var(--shadow-md), 0 0 25px rgba(88, 166, 255, 0.15);
 }
 
 .hero-quote::before {
