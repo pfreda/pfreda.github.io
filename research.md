@@ -22,7 +22,7 @@ title: Research
 <div class="research-section">
 <h2>Knowledge Graphs & Human-AI Collaboration</h2>
 <div class="research-flex">
-  <img src="/assets/images/2026/01/research_kg.jpg" alt="Knowledge Graphs">
+  <img src="/assets/images/2026/01/research_kg.png" alt="Knowledge Graphs">
   <p>We build <strong>structured frameworks</strong> that encode relationships among clinical concepts, data operations, and validation evidence. These knowledge graphs support transparent iteration and discovery of insights, enabling clinicians and data scientists to compare pipeline choices and improve model interpretability through <strong>graph-informed, retrieval-augmented interfaces</strong>. This work aims to make the AI decision-making process more accessible and auditable for clinical stakeholders.</p>
 </div>
 </div>
@@ -30,7 +30,7 @@ title: Research
 <div class="research-section">
 <h2>Modeling Clinical Heterogeneity</h2>
 <div class="research-flex research-flex-reverse">
-  <img src="/assets/images/2026/01/research_hetero.jpg" alt="Clinical Heterogeneity">
+  <img src="/assets/images/2026/01/research_hetero.png" alt="Clinical Heterogeneity">
   <p>Clinical outcomes vary substantially across patient subgroups, yet most models assume homogeneous populations. Our research addresses this by <strong>identifying clinically meaningful risk phenotypes</strong>, quantifying performance stability across strata, and generating calibrated risk estimates for reliable stratification. This work is particularly relevant for surgical outcomes and substance use disorders, where patient heterogeneity can dramatically affect treatment decisions and risk assessment.</p>
 </div>
 </div>
