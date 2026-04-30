@@ -38,7 +38,7 @@ title: People
     </div>
 
     <div class="person-links">
-      <a href="mailto:philip.freda@cshs.org" class="btn">Email</a>
+      <a href="mailto:philip.freda@csmc.edu" class="btn">Email</a>
       <a href="https://scholar.google.com/citations?user=1NaI6RgAAAAJ&hl=en" class="btn" target="_blank" rel="noopener">Google Scholar</a>
       <a href="https://www.linkedin.com/in/philipfreda" class="btn" target="_blank" rel="noopener">LinkedIn</a>
     </div>
