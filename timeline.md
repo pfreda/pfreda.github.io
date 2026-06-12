@@ -8,6 +8,13 @@ title: The Road So Far
 <div class="timeline">
 
 <div class="timeline-item">
+<div class="timeline-date">June 2026</div>
+<ul>
+<li>Completed a course on agentic AI development and deployment entitled "Foundation: Introduction to LangChain - Python" provided by <a href="https://academy.langchain.com/" target="_blank" rel="noopener">LangChain Academy</a>. Certificate available <a href="https://academy.langchain.com/certificates/whjazq0clq" target="_blank" rel="noopener">here</a>.</li>
+</ul>
+</div>
+
+<div class="timeline-item">
 <div class="timeline-date">April 2026</div>
 <ul>
 <li>Served as a grant peer reviewer for the NIH Center for Scientific Review (CSR), specifically for the <a href="https://nida.nih.gov/" target="_blank" rel="noopener">National Institute on Drug Abuse (NIDA)</a>.</li>
