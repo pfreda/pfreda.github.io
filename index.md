@@ -37,7 +37,7 @@ show_title: false
   <h2>Research Focuses</h2>
 
   <div class="research-focus-item">
-    <h3>Clinical Informatics & AI for Real-World Data</h3>
+    <h3>Clinical Informatics and AI for Real-World Data</h3>
     <ul>
       <li>Agentic AI and automation for EHR data processing (data cleaning, feature engineering, reproducible pipelines)</li>
       <li>Phenotyping and risk modeling from structured + unstructured EHR data (including NLP)</li>
@@ -46,7 +46,7 @@ show_title: false
   </div>
 
   <div class="research-focus-item">
-    <h3>Agentic AI Evaluation, Optimization & Oversight</h3>
+    <h3>Agentic AI Evaluation, Optimization, and Oversight</h3>
     <ul>
       <li>Methods for evaluating agentic system reliability, reproducibility, and clinical validity</li>
       <li>Optimization of agent topologies and workflows for stable, trustworthy performance</li>
@@ -55,7 +55,7 @@ show_title: false
   </div>
 
   <div class="research-focus-item">
-    <h3>Substance Use Disorders & Clinical NLP</h3>
+    <h3>Substance Use Disorders and Clinical NLP</h3>
     <ul>
       <li>Computational phenotyping of problematic opioid use and OUD from clinical notes and discharge summaries</li>
       <li>Severity characterization and context-aware NLP/annotation frameworks to support downstream modeling</li>
@@ -63,7 +63,7 @@ show_title: false
   </div>
 
   <div class="research-focus-item">
-    <h3>Knowledge Graphs & Human-AI Collaboration</h3>
+    <h3>Knowledge Graphs and Human-AI Collaboration</h3>
     <ul>
       <li>Knowledge graph development to represent clinical concepts, data transformations, and model evidence</li>
       <li>Retrieval-augmented and graph-informed interfaces to improve interpretability, traceability, and actionability</li>
