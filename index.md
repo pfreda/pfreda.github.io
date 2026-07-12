@@ -22,9 +22,11 @@ show_title: false
     <div class="intro-card-text">
       <p>The <strong>Freda Lab</strong> is based in the <a href="https://www.cedars-sinai.edu/research/departments-institutes/computational-biomedicine.html" target="_blank" rel="noopener">Department of Computational Biomedicine</a> at <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University</a> in Los Angeles, CA.</p>
 
-      <p>We develop AI-driven methods that make clinical data more usable for prediction, discovery, and decision support. Our work sits at the intersection of clinical informatics, machine learning, and translational research, with a focus on building automated (and increasingly agentic) pipelines that transform noisy EHR data into clinically actionable representations.</p>
+      <p>We develop AI-driven methods that make clinical data more usable for prediction, discovery, and decision support. Our work sits at the intersection of clinical informatics, machine learning, and translational research, with a focus on building autonomous, agentic AI pipelines that transform noisy EHR data into clinically actionable representations.</p>
 
-      <p>Major themes of our research include improving risk identification for adverse spine surgery outcomes and for problematic opioid use/opioid use disorder, leveraging structured EHR elements, clinical narratives, imaging, and social determinants of health to model patient risk and heterogeneity. We also design knowledge-graph–based frameworks that capture relationships among clinical concepts, data quality operations, and model behavior to support transparent, auditable AI workflows and human–AI collaboration.</p>
+      <p>Major themes of our research include improving risk identification for adverse clinical outcomes, substance use disorders, and psychiatric comorbidities, leveraging structured EHR elements, clinical narratives, imaging, and social determinants of health to model patient risk and heterogeneity. We also design knowledge-graph–based frameworks that capture relationships among clinical concepts, data processing/quality operations, and model behavior to support transparent, auditable AI workflows and human–AI collaboration.</p>
+
+      <p>A core thread of our work targets the agentic systems themselves: we develop methods for evaluation, optimization, explainability, and oversight, measuring the reliability, reproducibility, and clinical validity of these systems so they can be trusted and monitored in real-world settings.</p>
 
       <p>In parallel, we develop automated machine learning frameworks that leverage evolutionary algorithms for genotype-to-phenotype association analysis, with specific emphasis on detecting epistatic and other non-additive genetic effects that traditional approaches often miss.</p>
     </div>
@@ -44,15 +46,24 @@ show_title: false
   </div>
 
   <div class="research-focus-item">
+    <h3>Agentic AI Evaluation, Optimization & Oversight</h3>
+    <ul>
+      <li>Methods for evaluating agentic system reliability, reproducibility, and clinical validity</li>
+      <li>Optimization of agent topologies and workflows for stable, trustworthy performance</li>
+      <li>Explainability and oversight mechanisms for monitoring agents in real-world settings</li>
+    </ul>
+  </div>
+
+  <div class="research-focus-item">
     <h3>Substance Use Disorders & Clinical NLP</h3>
     <ul>
-      <li>Computational phenotyping of problematic opioid use / OUD from clinical notes and discharge summaries</li>
+      <li>Computational phenotyping of problematic opioid use and OUD from clinical notes and discharge summaries</li>
       <li>Severity characterization and context-aware NLP/annotation frameworks to support downstream modeling</li>
     </ul>
   </div>
 
   <div class="research-focus-item">
-    <h3>Knowledge Graphs & AI-Human Collaboration</h3>
+    <h3>Knowledge Graphs & Human-AI Collaboration</h3>
     <ul>
       <li>Knowledge graph development to represent clinical concepts, data transformations, and model evidence</li>
       <li>Retrieval-augmented and graph-informed interfaces to improve interpretability, traceability, and actionability</li>
@@ -62,8 +73,8 @@ show_title: false
   <div class="research-focus-item">
     <h3>Patient Heterogeneity</h3>
     <ul>
-      <li>Quantifying patient subgroup structure and outcome heterogeneity (e.g., clustering approaches) in surgical populations</li>
-      <li>Integrating and operationalizing social determinants data in EHR systems</li>
+      <li>Quantifying patient subgroup structure and outcome heterogeneity in surgical populations</li>
+      <li>Integrating and operationalizing social determinants of health data in EHR systems</li>
     </ul>
   </div>
 

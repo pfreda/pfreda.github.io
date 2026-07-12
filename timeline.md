@@ -8,6 +8,14 @@ title: The Road So Far
 <div class="timeline">
 
 <div class="timeline-item">
+<div class="timeline-date">July 2026</div>
+<ul>
+<li>Delivered the workshop "Agentic AI Methods, Systems, and Software for <em>in silico</em> Team Science" with Jason H. Moore and Binglan Li at the <a href="https://www.iscb.org/ismb2026/home" target="_blank" rel="noopener">2026 Intelligent Systems for Molecular Biology (ISMB) Conference</a> in Washington DC.</li>
+<li>Served as a panelist in the BioInfo-Core session "Agents in the Core: How Your Core is Using Agentic AI (Or How it Should Be)" at the <a href="https://www.iscb.org/ismb2026/home" target="_blank" rel="noopener">2026 Intelligent Systems for Molecular Biology (ISMB) Conference</a> in Washington DC, joining Stuart Levine, Natalie Gill, and Yury Bukhman to discuss how bioinformatics cores can adopt agentic AI: platform selection, costs, pitfalls, and benefits.</li>
+</ul>
+</div>
+
+<div class="timeline-item">
 <div class="timeline-date">June 2026</div>
 <ul>
 <li>Completed a course on agentic AI development entitled "Foundation: Introduction to LangChain - Python" provided by <a href="https://academy.langchain.com/" target="_blank" rel="noopener">LangChain Academy</a>. Certificate available <a href="https://academy.langchain.com/certificates/whjazq0clq" target="_blank" rel="noopener">here</a>.</li>
