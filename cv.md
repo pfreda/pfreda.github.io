@@ -5,6 +5,6 @@ title: Curriculum Vitae
 
 {% include subpage-nav.html %}
 
-<a href="/assets/files/freda_cv_2026.pdf?v=3" class="btn" target="_blank">Download CV (PDF)</a>
+<a href="/assets/files/freda_cv_2026.pdf?v=4" class="btn" target="_blank">Download CV (PDF)</a>
 
-<iframe src="/assets/files/freda_cv_2026.pdf?v=3" class="pdf-embed" title="Curriculum Vitae"></iframe>
+<iframe src="/assets/files/freda_cv_2026.pdf?v=4" class="pdf-embed" title="Curriculum Vitae"></iframe>
