@@ -20,6 +20,14 @@ title: Teaching & Science Outreach
     <h3>Classroom Instruction</h3>
     <ul>
       <li>
+        <p style="margin-top: 0;">I guest lecture three courses in the graduate level course <strong>Computational Biology (HAI 300A)</strong> as part of <a href="https://www.cedars-sinai.edu/health-sciences-university.html" target="_blank" rel="noopener">Cedars-Sinai Health Sciences University's</a> PhD program in <a href="https://www.cedars-sinai.edu/education/graduate-school/phd-health-artificial-intelligence.html" target="_blank" rel="noopener">Health Artificial Intelligence</a>. The three lectures I teach are:</p>
+        <ul>
+          <li>Complex Genetic Architectures and Non-Additive Genetic Variation</li>
+          <li>Computational Evolutionary Medicine</li>
+          <li>Network Biology, Digital Knowledge Representation, and Deep Learning</li>
+        </ul>
+      </li>
+      <li>
         <p style="margin-top: 0;">I serve as a Lecturer for <strong>Clinical Informatics (ME-ME100.01)</strong>, a course taught through <a href="https://medschool.ucla.edu/education/md-education/curriculum" target="_blank" rel="noopener">UCLA's Visiting Student Learning Opportunities (VSLO) program</a>. Delivered approximately 5-6 times per year for clinical resident rotations, the curriculum provides residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</p>
       </li>
       <li style="margin-top: 1.5rem;">

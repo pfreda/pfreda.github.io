@@ -8,6 +8,16 @@ title: The Road So Far
 <div class="timeline">
 
 <div class="timeline-item">
+<div class="timeline-date">August 2026</div>
+<ul>
+<li>Published a preprint entitled <a href="https://www.biorxiv.org/content/10.64898/2026.07.08.737358v4.abstract" target="_blank" rel="noopener">EcoXAI</a>, an autonomous agentic Ecosystem for EXplainable Artificial Intelligence and biomedical discovery on bioRxiv. The official manuscript was submitted to <a href="https://academic.oup.com/bioinformatics" target="_blank" rel="noopener">Bioinformatics</a> as an Application's Note.</li>
+<li>Published a preprint entitled <a href="https://www.biorxiv.org/content/10.64898/2026.08.20.746074v2.abstract" target="_blank" rel="noopener">ASAREE</a>, an Analytical Sandbox for Agentic AI Research, Engineering, and Experimentation on bioRxiv. The official manuscript was submitted to <a href="https://academic.oup.com/bioinformatics" target="_blank" rel="noopener">Bioinformatics</a> as an Application's Note.</li>
+<li>Presented work on clinical agentic AI dataset engineering at the <a href="https://www.cedars-sinai.edu/health-sciences-university/research/departments-institutes/biomedical-sciences/biomedical-imaging.html" target="_blank" rel="noopener">Biomedical Imaging Research Institute</a>'s Mini Workshop for Agentic AI Discussion at Cedars-Sinai Medical Center on 8/2026.</li>
+<li>Began teaching as a guest lecturer in the Computational Biology course offered through Cedars-Sinai Health Sciences University's PhD program in Health Artificial Intelligence.</li>
+</ul>
+</div>
+
+<div class="timeline-item">
 <div class="timeline-date">July 2026</div>
 <ul>
 <li>Delivered the workshop "Agentic AI Methods, Systems, and Software for <em>in silico</em> Team Science" with Jason H. Moore and Binglan Li at the <a href="https://www.iscb.org/ismb2026/home" target="_blank" rel="noopener">2026 Intelligent Systems for Molecular Biology (ISMB) Conference</a> in Washington DC.</li>
