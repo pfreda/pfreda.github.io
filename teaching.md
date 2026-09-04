@@ -27,7 +27,7 @@ title: Teaching & Science Outreach
           <li>Network Biology, Digital Knowledge Representation, and Deep Learning</li>
         </ul>
       </li>
-      <li>
+      <li style="margin-top: 1.5rem;">
         <p style="margin-top: 0;">I serve as a Lecturer for <strong>Clinical Informatics (ME-ME100.01)</strong>, a course taught through <a href="https://medschool.ucla.edu/education/md-education/curriculum" target="_blank" rel="noopener">UCLA's Visiting Student Learning Opportunities (VSLO) program</a>. Delivered approximately 5-6 times per year for clinical resident rotations, the curriculum provides residents with a foundational understanding of clinical informatics, the practical applications of AI/ML in modern healthcare, and the nuances and limitations of current clinical frailty metrics to foster data-driven patient care.</p>
       </li>
       <li style="margin-top: 1.5rem;">
