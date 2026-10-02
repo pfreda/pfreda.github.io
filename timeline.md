@@ -10,7 +10,7 @@ title: The Road So Far
 <div class="timeline-item">
 <div class="timeline-date">September 2026</div>
 <ul>
-<li>Published work on agentic dataset engineering entitled "Unsupervised Clinical Dataset Engineering with Agentic AI" as part of Cedars-Sinai Guerin Children's Hospital (<a href="https://www.cedars-sinai.edu/health-sciences-university/research/departments-institutes/guerin-childrens.html" target="_blank" rel="noopener">CSGC</a>) Data Science Workshop. </li>
+<li>Presented work on agentic dataset engineering entitled "Unsupervised Clinical Dataset Engineering with Agentic AI" as part of Cedars-Sinai Guerin Children's Hospital (<a href="https://www.cedars-sinai.edu/health-sciences-university/research/departments-institutes/guerin-childrens.html" target="_blank" rel="noopener">CSGC</a>) Data Science Workshop. </li>
 </ul>
 </div>
 
