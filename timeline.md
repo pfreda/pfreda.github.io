@@ -8,6 +8,13 @@ title: The Road So Far
 <div class="timeline">
 
 <div class="timeline-item">
+<div class="timeline-date">September 2026</div>
+<ul>
+<li>Published work on agentic dataset engineering entitled "Unsupervised Clinical Dataset Engineering with Agentic AI" as part of Cedars-Sinai Guerin Children's Hospital (<a href="https://www.cedars-sinai.edu/health-sciences-university/research/departments-institutes/guerin-childrens.html" target="_blank" rel="noopener">CSGC</a>) Data Science Workshop. </li>
+</ul>
+</div>
+
+<div class="timeline-item">
 <div class="timeline-date">August 2026</div>
 <ul>
 <li>Published a preprint entitled <a href="https://www.biorxiv.org/content/10.64898/2026.07.08.737358v4.abstract" target="_blank" rel="noopener">EcoXAI</a>, an autonomous agentic Ecosystem for EXplainable Artificial Intelligence and biomedical discovery on bioRxiv. The official manuscript was submitted to <a href="https://academic.oup.com/bioinformatics" target="_blank" rel="noopener">Bioinformatics</a> as an Application's Note.</li>
